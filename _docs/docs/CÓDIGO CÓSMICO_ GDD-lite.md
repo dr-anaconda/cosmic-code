@@ -24,6 +24,7 @@ Los detalles de implementación, números y fórmulas se encuentran en:
 - `_docs/docs/CÓDIGO CÓSMICO_ Data Dictionary.md` (entidades, campos)
 - `_docs/docs/CÓDIGO CÓSMICO_ UI_UX.md` (interfaces)
 - `_docs/docs/CÓDIGO CÓSMICO_ ADD.md` (arquitectura)
+- `_docs/docs/CÓDIGO CÓSMICO_ Tournament System.md` (ligas y competencia)
 - `_docs/docs/CÓDIGO CÓSMICO_ Monetization Spec.md` (tienda, tokens)
 
 ---
@@ -327,6 +328,7 @@ Todo el multijugador es **asíncrono**:
 | `_docs/docs/CÓDIGO CÓSMICO_ Data Dictionary.md` | Entidades y campos (no aquí) |
 | `_docs/docs/CÓDIGO CÓSMICO_ UI_UX.md` | Especificación de interfaces (no aquí) |
 | `_docs/docs/CÓDIGO CÓSMICO_ ADD.md` | Arquitectura técnica (no aquí) |
+| `_docs/docs/CÓDIGO CÓSMICO_ Tournament System.md` | Sistema competitivo semanal (no aquí) |
 
 ---
 
