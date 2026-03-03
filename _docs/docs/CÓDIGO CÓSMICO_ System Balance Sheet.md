@@ -8,6 +8,9 @@
 - `_docs/docs/CÓDIGO CÓSMICO_ GDD-lite.md`
 - `_docs/docs/CÓDIGO CÓSMICO_ Core Loops.md`
 - `_docs/docs/CÓDIGO CÓSMICO_ Data Dictionary.md`
+- `_docs/docs/CÓDIGO CÓSMICO_ Tournament System.md`
+- `_docs/docs/CÓDIGO CÓSMICO_ Multiplayer Spec.md`
+- `_docs/docs/CÓDIGO CÓSMICO_ Monetization Spec.md`
 
 ---
 
@@ -243,6 +246,8 @@ depredadores += bioluminiscencia * 0.1 - estabilidad * 0.05
 ## 9. Multijugador
 
 ### 9.1 Torneos
+
+> **Referencia operativa:** `_docs/docs/CÓDIGO CÓSMICO_ Tournament System.md`
 
 | Parámetro | Valor |
 |-----------|-------|
