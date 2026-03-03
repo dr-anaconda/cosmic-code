@@ -1,12 +1,14 @@
 # Event & Content Bible — Taxonomía y Pipeline de Contenido
 
 **Proyecto:** Código Cósmico – Evolución Profunda  
-**Versión:** 1.0  
+**Versión:** 1.1  
 **Estado:** Borrador  
 **Documentos relacionados:**
 - `_docs/docs/CÓDIGO CÓSMICO_ GDD-lite.md`
 - `_docs/docs/CÓDIGO CÓSMICO_ Core Loops.md`
 - `_docs/docs/CÓDIGO CÓSMICO_ UI_UX.md`
+- `_docs/docs/CÓDIGO CÓSMICO_ Localization Spec.md`
+- `_docs/docs/CÓDIGO CÓSMICO_ QA Editorial v1.1.md`
 
 ---
 
@@ -162,18 +164,61 @@ Esto evita duplicar la definición de loops, ya detallada en `_docs/docs/CÓDIGO
 
 ---
 
-## 10. Pipeline Editorial
+## 10. Pipeline Editorial y Operativo (v1.1)
 
-1. **Diseño sistémico:** definir trigger y efectos del evento.
-2. **Redacción narrativa:** título, resumen, causa y opciones.
-3. **Validación UX:** claridad, longitud, priorización.
-4. **Validación balance:** impacto y frecuencia.
-5. **Etiquetado técnico:** familia, severidad, cooldown, tags.
-6. **Publicación:** lote semanal o release de temporada.
+1. **Diseño sistémico:** definir trigger, efectos y ámbito.
+2. **Redacción narrativa:** titular, resumen, causa, opciones.
+3. **Validación UX:** claridad, longitud, prioridad.
+4. **Validación de balance:** impacto, frecuencia, cooldown.
+5. **Etiquetado técnico:** familia, severidad, tags, versión.
+6. **Localización:** claves i18n y traducción validada.
+7. **QA editorial:** checklist y score de calidad.
+8. **Publicación:** lote semanal o release de temporada.
+
+### 10.1 Estados de contenido
+
+| Estado | Descripción |
+|---|---|
+| Draft | Redacción inicial |
+| Ready for QA | Listo para revisión editorial |
+| Ready for Build | Validado para integración |
+| Live | Publicado en producción |
+| Deprecated | Retirado del pool activo |
+
+### 10.2 Convención de versión
+
+`major.minor.patch`
+
+- `major`: cambio estructural en familia o formato.
+- `minor`: nuevos eventos o cadenas.
+- `patch`: corrección textual o ajuste de prioridad.
 
 ---
 
-## 11. Calidad de Escritura
+## 11. Operación de Temporadas
+
+### 11.1 Calendario
+
+| Día | Acción |
+|---|---|
+| Lunes | Activación de lote semanal |
+| Martes | Monitoreo de métricas y ruido |
+| Miércoles | Ajustes menores de priorización |
+| Jueves | Backlog de nuevos eventos |
+| Viernes | Freeze de textos para siguiente release |
+
+### 11.2 Runbook de incidentes
+
+Si un evento rompe UX o balance:
+
+1. Cambiar estado a `deprecated`.
+2. Activar fallback de familia equivalente.
+3. Registrar incidente en bitácora editorial.
+4. Publicar patch de texto o trigger.
+
+---
+
+## 12. Calidad de Escritura
 
 Checklist por evento:
 
@@ -183,6 +228,8 @@ Checklist por evento:
 - [ ] No hay opción claramente "correcta" siempre
 - [ ] El tono es consistente con el universo
 - [ ] La longitud es mobile-friendly
+- [ ] Clave de localización definida
+- [ ] Placeholders validados
 
 Reglas de estilo:
 
@@ -190,10 +237,30 @@ Reglas de estilo:
 - Evitar tecnicismo innecesario
 - Evitar tono moralizante
 - No usar humor que rompa el tono cósmico
+- Mantener consistencia terminológica con glosario
 
 ---
 
-## 12. Métricas de Contenido
+## 13. Integración con Localización
+
+Toda pieza de contenido debe declarar:
+
+- `key_title`
+- `key_summary`
+- `key_cause`
+- `key_choices[]`
+
+Reglas:
+
+- No se publica contenido sin `es-ES` y `en-US` completos.
+- No se permite hardcode de textos en runtime.
+- Cambios terminológicos deben actualizar glosario maestro.
+
+Referencia: `_docs/docs/CÓDIGO CÓSMICO_ Localization Spec.md`.
+
+---
+
+## 14. Métricas de Contenido
 
 | Métrica | Objetivo |
 |---|---|
@@ -201,12 +268,14 @@ Reglas de estilo:
 | Tiempo de lectura por evento | < 12s |
 | Eventos ignorados por sesión | < 20% |
 | Repetición percibida (encuesta) | < 15% |
+| Eventos con error de clave i18n | 0 |
+| Incidentes editoriales por release | < 3 |
 
-Si una familia supera 25% de repetición percibida, se prioriza expansión de ese pool.
+Si una familia supera 25% de repetición percibida, se prioriza expansión de su pool en el siguiente sprint.
 
 ---
 
-## 13. Riesgos y Mitigación
+## 15. Riesgos y Mitigación
 
 | Riesgo | Mitigación |
 |---|---|
@@ -214,21 +283,23 @@ Si una familia supera 25% de repetición percibida, se prioriza expansión de es
 | Sobrecarga cognitiva | Priorización por severidad y agrupación |
 | Eventos "sin sentido" | Validación de causalidad obligatoria |
 | Tono inconsistente | Revisión editorial centralizada |
+| Deriva terminológica entre idiomas | Glosario y QA de localización |
 
 ---
 
-## 14. Checklist de Validación
+## 16. Checklist de Validación
 
 - [ ] Taxonomía de eventos definida
 - [ ] Severidades y prioridades definidas
 - [ ] Estructura canónica de evento establecida
 - [ ] Catálogo mínimo inicial definido
-- [ ] Pipeline editorial documentado
+- [ ] Pipeline editorial y operativo documentado
+- [ ] Integración de localización definida
 - [ ] Métricas de contenido definidas
-- [ ] Sin redundancia con loops/balance
+- [ ] Sin redundancia con loops, balance y multiplayer
 
 ---
 
-## 15. Declaración Final
+## 17. Declaración Final
 
-El contenido de eventos es la interfaz narrativa del sistema. Si las fórmulas son el motor, este documento define el lenguaje con el que el jugador entiende el universo.
+El contenido de eventos es la interfaz narrativa del sistema. En v1.1, además de diseñar eventos, el equipo opera un ciclo editorial continuo con QA y localización como parte obligatoria del release.

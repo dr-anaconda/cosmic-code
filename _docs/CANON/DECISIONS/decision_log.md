@@ -250,3 +250,33 @@ Proyecto: Código Cósmico – Evolución Profunda
 - Regla resultante: Tournament define ligas/MMR/rewards semanales; Multiplayer define banco genetico, contratos sociales, sondas e integridad general
 - Impacto esperado: Documentos complementarios sin superposicion estructural
 - Estado: confirmada
+
+### DEC-0023
+
+- Fecha: 2026-03-03
+- Documento afectado: Localization Spec
+- Pregunta origen: ¿Que prioridad de idiomas aplicamos?
+- Opciones elegidas: es-ES y en-US en lanzamiento; pt-BR y ja-JP en fase 2
+- Regla resultante: No se publica un idioma nuevo sin glosario validado y cobertura de flujos criticos
+- Impacto esperado: Expansión internacional controlada y sostenible
+- Estado: confirmada
+
+### DEC-0024
+
+- Fecha: 2026-03-03
+- Documento afectado: Event & Content Bible
+- Pregunta origen: ¿Como operamos contenido de eventos en v1.1?
+- Opciones elegidas: Pipeline editorial + operación semanal + integración con localización
+- Regla resultante: Se incorporan estados de contenido, versionado, runbook de incidentes y validaciones i18n
+- Impacto esperado: Menor deuda editorial y mayor estabilidad de releases de contenido
+- Estado: confirmada
+
+### DEC-0025
+
+- Fecha: 2026-03-03
+- Documento afectado: QA Editorial v1.1
+- Pregunta origen: ¿Que gate define salida documental a main?
+- Opciones elegidas: Score minimo 4.0 sin hallazgos criticos abiertos
+- Regla resultante: Release documental bloqueado si no cumple scorecard, referencias y trazabilidad
+- Impacto esperado: Mejora sostenida de calidad documental
+- Estado: confirmada
