@@ -280,3 +280,33 @@ Proyecto: Código Cósmico – Evolución Profunda
 - Regla resultante: Release documental bloqueado si no cumple scorecard, referencias y trazabilidad
 - Impacto esperado: Mejora sostenida de calidad documental
 - Estado: confirmada
+
+### DEC-0026
+
+- Fecha: 2026-03-03
+- Documento afectado: Data Dictionary Complete
+- Pregunta origen: ¿Que nivel de detalle debe tener la version completa?
+- Opciones elegidas: Especificacion persistente operable
+- Regla resultante: Incluir tipos, restricciones, indices, relaciones y reglas de integridad por dominio
+- Impacto esperado: Puente directo entre diseño y backend
+- Estado: confirmada
+
+### DEC-0027
+
+- Fecha: 2026-03-03
+- Documento afectado: Document Index
+- Pregunta origen: ¿Como reducimos friccion de navegacion documental?
+- Opciones elegidas: Mapa maestro de lectura y dependencias
+- Regla resultante: Crear indice central con ruta recomendada, roles y anti-duplicacion por documento
+- Impacto esperado: Mejor onboarding del equipo y menos inconsistencias
+- Estado: confirmada
+
+### DEC-0028
+
+- Fecha: 2026-03-03
+- Documento afectado: Release Notes
+- Pregunta origen: ¿Como versionamos cambios documentales?
+- Opciones elegidas: Release notes persistentes por version
+- Regla resultante: Cada lote documental debe registrar Added/Changed/Impact y fecha
+- Impacto esperado: Trazabilidad historica clara para auditoria y mantenimiento
+- Estado: confirmada
