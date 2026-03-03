@@ -370,3 +370,33 @@ Proyecto: Código Cósmico – Evolución Profunda
 - Regla resultante: Toda nueva capa de ejecucion debe reflejarse en mapa documental y release notes
 - Impacto esperado: Coherencia de gobernanza y mejor onboarding del equipo
 - Estado: confirmada
+
+### DEC-0035
+
+- Fecha: 2026-03-03
+- Documento afectado: Sprint 0 Active Pack v1.5
+- Pregunta origen: ¿Como operamos Sprint 0 dia a dia?
+- Opciones elegidas: Pack activo con KPIs, criterios de exito/fracaso y contingencia
+- Regla resultante: Sprint 0 requiere objetivos no negociables y seguimiento diario con umbrales claros
+- Impacto esperado: Mayor control de ejecución en arranque técnico
+- Estado: confirmada
+
+### DEC-0036
+
+- Fecha: 2026-03-03
+- Documento afectado: Sprint 0 Board v1.5
+- Pregunta origen: ¿Como visualizamos trabajo activo de arranque?
+- Opciones elegidas: Tablero semanal por estados con WIP y regla de bloqueos
+- Regla resultante: Tareas P0/P1 se gestionan con límites de trabajo en curso y escalado por tiempo bloqueado
+- Impacto esperado: Flujo de trabajo más estable y predecible
+- Estado: confirmada
+
+### DEC-0037
+
+- Fecha: 2026-03-03
+- Documento afectado: Execution Ownership Matrix v1.5
+- Pregunta origen: ¿Como evitamos zonas grises de responsabilidad?
+- Opciones elegidas: Matriz de ownership por flujo y regla de escalado
+- Regla resultante: Toda tarea P0 debe tener Responsible/Accountable explícitos y ETA
+- Impacto esperado: Menos bloqueos por falta de dueño y mejor accountability
+- Estado: confirmada
