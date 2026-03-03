@@ -1,7 +1,7 @@
 # Document Index — Mapa Maestro de Documentación
 
 **Proyecto:** Código Cósmico – Evolución Profunda  
-**Versión:** 1.2  
+**Versión:** 1.3  
 **Estado:** Vigente
 
 ---
@@ -34,7 +34,10 @@ Centralizar navegación, propósito y dependencia de todos los documentos activo
 18. `_docs/docs/CÓDIGO CÓSMICO_ Implementation Risk Matrix v1.3.md`
 19. `_docs/docs/CÓDIGO CÓSMICO_ Execution Backlog v1.4.md`
 20. `_docs/docs/CÓDIGO CÓSMICO_ Sprint 0 Kickoff Checklist v1.4.md`
-21. `_docs/docs/CÓDIGO CÓSMICO_ Release Notes.md`
+21. `_docs/docs/CÓDIGO CÓSMICO_ Sprint 0 Active Pack v1.5.md`
+22. `_docs/docs/CÓDIGO CÓSMICO_ Sprint 0 Board v1.5.md`
+23. `_docs/docs/CÓDIGO CÓSMICO_ Execution Ownership Matrix v1.5.md`
+24. `_docs/docs/CÓDIGO CÓSMICO_ Release Notes.md`
 
 ---
 
@@ -61,6 +64,9 @@ Centralizar navegación, propósito y dependencia de todos los documentos activo
 | Implementation Risk Matrix v1.3 | priorización y mitigación de riesgos | Milestones, Readiness Pack |
 | Execution Backlog v1.4 | epics e historias ejecutables | Milestones Plan |
 | Sprint 0 Kickoff Checklist v1.4 | control de inicio de ejecución | Execution Backlog |
+| Sprint 0 Active Pack v1.5 | contrato operativo de sprint activo | Backlog + Kickoff |
+| Sprint 0 Board v1.5 | tablero semanal de tareas y estado | Active Pack |
+| Execution Ownership Matrix v1.5 | ownership operativo por flujo | Active Pack + Board |
 | Release Notes | historial de cambios documentales | Document Index |
 
 ---
@@ -90,6 +96,10 @@ Centralizar navegación, propósito y dependencia de todos los documentos activo
 ### 4.6 Núcleo de arranque de ejecución
 
 `Readiness Pack -> Execution Backlog -> Sprint 0 Checklist -> M0`
+
+### 4.7 Núcleo operativo de Sprint 0
+
+`Sprint 0 Active Pack -> Sprint 0 Board -> Ownership Matrix -> Daily Execution`
 
 ---
 

@@ -5,6 +5,27 @@
 
 ---
 
+## v1.5 — Sprint 0 Active Operations (2026-03-03)
+
+### Added
+
+- `_docs/docs/CÓDIGO CÓSMICO_ Sprint 0 Active Pack v1.5.md`
+- `_docs/docs/CÓDIGO CÓSMICO_ Sprint 0 Board v1.5.md`
+- `_docs/docs/CÓDIGO CÓSMICO_ Execution Ownership Matrix v1.5.md`
+
+### Changed
+
+- `_docs/docs/CÓDIGO CÓSMICO_ Implementation Readiness Pack v1.3.md` (enlaces de operación activa)
+- `_docs/docs/CÓDIGO CÓSMICO_ Document Index.md` (v1.3 con núcleo operativo de Sprint 0)
+- `_docs/CANON/DECISIONS/decision_log.md` con DEC-0035, DEC-0036, DEC-0037
+
+### Impact
+
+- Se pasa de backlog preparado a operación diaria de Sprint 0 con tablero y ownership explícito.
+- Se reduce ambigüedad de responsables y escalado en ejecución.
+
+---
+
 ## v1.4 — Execution Backlog Ready (2026-03-03)
 
 ### Added
