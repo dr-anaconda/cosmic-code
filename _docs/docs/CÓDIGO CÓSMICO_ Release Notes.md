@@ -5,6 +5,26 @@
 
 ---
 
+## v1.3 — Implementation Readiness Pack (2026-03-03)
+
+### Added
+
+- `_docs/docs/CÓDIGO CÓSMICO_ Implementation Readiness Pack v1.3.md`
+- `_docs/docs/CÓDIGO CÓSMICO_ Technical Milestones Plan v1.3.md`
+- `_docs/docs/CÓDIGO CÓSMICO_ Implementation Risk Matrix v1.3.md`
+
+### Changed
+
+- `_docs/docs/CÓDIGO CÓSMICO_ Document Index.md` (v1.1 con ruta y dependencias de ejecución)
+- `_docs/CANON/DECISIONS/decision_log.md` con DEC-0029, DEC-0030, DEC-0031
+
+### Impact
+
+- Se habilita transición de documentación a ejecución técnica por hitos.
+- Se formaliza gestión de riesgo de implementación como parte del ciclo documental.
+
+---
+
 ## v1.2 — Data/Navigation/Release Governance (2026-03-03)
 
 ### Added
