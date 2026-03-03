@@ -1,0 +1,107 @@
+# Document Index — Mapa Maestro de Documentación
+
+**Proyecto:** Código Cósmico – Evolución Profunda  
+**Versión:** 1.0  
+**Estado:** Vigente
+
+---
+
+## 1. Propósito
+
+Centralizar navegación, propósito y dependencia de todos los documentos activos del proyecto para evitar duplicación, pérdida de contexto y deriva editorial.
+
+---
+
+## 2. Ruta de Lectura Recomendada
+
+1. `_docs/init/GDD_ CÓDIGO CÓSMICO – EVOLUCIÓN PROFUNDA.md`
+2. `_docs/docs/CÓDIGO CÓSMICO_ PRD.md`
+3. `_docs/docs/CÓDIGO CÓSMICO_ GDD-lite.md`
+4. `_docs/docs/CÓDIGO CÓSMICO_ Core Loops.md`
+5. `_docs/docs/CÓDIGO CÓSMICO_ System Balance Sheet.md`
+6. `_docs/docs/CÓDIGO CÓSMICO_ Data Dictionary.md`
+7. `_docs/docs/CÓDIGO CÓSMICO_ Data Dictionary Complete.md`
+8. `_docs/docs/CÓDIGO CÓSMICO_ ADD.md`
+9. `_docs/docs/CÓDIGO CÓSMICO_ UI_UX.md`
+10. `_docs/docs/CÓDIGO CÓSMICO_ Event & Content Bible.md`
+11. `_docs/docs/CÓDIGO CÓSMICO_ Tournament System.md`
+12. `_docs/docs/CÓDIGO CÓSMICO_ Multiplayer Spec.md`
+13. `_docs/docs/CÓDIGO CÓSMICO_ Monetization Spec.md`
+14. `_docs/docs/CÓDIGO CÓSMICO_ Localization Spec.md`
+15. `_docs/docs/CÓDIGO CÓSMICO_ QA Editorial v1.1.md`
+
+---
+
+## 3. Catálogo Activo
+
+| Documento | Rol principal | No duplicar con |
+|---|---|---|
+| PRD | visión de producto, KPIs, alcance | GDD-lite, Balance |
+| GDD-lite | principios de diseño y límites | PRD, Core Loops |
+| Core Loops | dinámica de juego por escalas | GDD-lite |
+| System Balance Sheet | fórmulas, umbrales y targets | Data Dictionary |
+| Data Dictionary | entidades y campos clave | Data Dictionary Complete |
+| Data Dictionary Complete | tipos, índices, restricciones | ADD |
+| ADD | arquitectura técnica y despliegue | Data Dictionary Complete |
+| UI/UX | experiencia, componentes y responsive | Event Bible |
+| Event & Content Bible | taxonomía y operación de contenido | Localization |
+| Tournament System | ligas, MMR, rewards competitivos | Multiplayer Spec |
+| Multiplayer Spec | contratos sociales y asíncronos | Tournament System |
+| Monetization Spec | economía ética y guardrails | Balance |
+| Localization Spec | i18n, glosario, pipeline lingüístico | QA Editorial |
+| QA Editorial v1.1 | scorecard y gate documental | CANON base |
+
+---
+
+## 4. Dependencias Críticas
+
+### 4.1 Núcleo de producto
+
+`PRD -> GDD-lite -> Core Loops`
+
+### 4.2 Núcleo técnico
+
+`Core Loops -> Balance -> Data Dictionary -> Data Dictionary Complete -> ADD`
+
+### 4.3 Núcleo de operación
+
+`UI/UX + Event Bible + Localization + QA Editorial`
+
+### 4.4 Núcleo competitivo-económico
+
+`Tournament System + Multiplayer Spec + Monetization Spec`
+
+---
+
+## 5. Responsables sugeridos
+
+| Área | Owner sugerido |
+|---|---|
+| Producto | Product Owner |
+| Diseño sistémico | Game Design Lead |
+| Datos/arquitectura | Tech Lead |
+| UX y contenido | UX Lead + Narrative Lead |
+| QA documental | Editor técnico |
+
+---
+
+## 6. Política de Actualización
+
+- Cada nuevo documento debe añadirse aquí.
+- Cada cambio mayor de versión debe reflejarse en `_docs/docs/CÓDIGO CÓSMICO_ Release Notes.md`.
+- Si un documento se depreca, marcarlo explícitamente y proponer reemplazo.
+
+---
+
+## 7. Checklist del índice
+
+- [ ] Todos los docs activos listados
+- [ ] Ruta de lectura actualizada
+- [ ] Dependencias coherentes
+- [ ] Sin enlaces rotos
+
+---
+
+## 8. Declaración Final
+
+Este índice es el punto de entrada documental oficial del proyecto. Antes de crear o modificar documentos, revisar este mapa para preservar coherencia global.
