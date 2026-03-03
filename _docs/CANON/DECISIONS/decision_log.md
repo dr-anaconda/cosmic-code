@@ -400,3 +400,33 @@ Proyecto: Código Cósmico – Evolución Profunda
 - Regla resultante: Toda tarea P0 debe tener Responsible/Accountable explícitos y ETA
 - Impacto esperado: Menos bloqueos por falta de dueño y mejor accountability
 - Estado: confirmada
+
+### DEC-0038
+
+- Fecha: 2026-03-03
+- Documento afectado: Start Build Now Pack v1.6
+- Pregunta origen: ¿Como activamos construccion inmediata sin perder control?
+- Opciones elegidas: Paquete de activacion con T-0, reglas diarias y criterios de salida de semana 1
+- Regla resultante: Se define una activacion formal previa a build con umbrales y anti-patrones
+- Impacto esperado: Menor friccion de inicio y mayor previsibilidad de sprint
+- Estado: confirmada
+
+### DEC-0039
+
+- Fecha: 2026-03-03
+- Documento afectado: Week 1 Execution Order v1.6
+- Pregunta origen: ¿Que secuencia minimiza riesgo en primera semana?
+- Opciones elegidas: Orden diario D1..D5 con prioridad por dependencias
+- Regla resultante: Se prioriza estabilidad de pipeline y contratos antes de expansion de alcance
+- Impacto esperado: Arranque tecnico controlado y menos retrabajo
+- Estado: confirmada
+
+### DEC-0040
+
+- Fecha: 2026-03-03
+- Documento afectado: Issue Templates v1.6
+- Pregunta origen: ¿Como estandarizamos calidad de issues P0?
+- Opciones elegidas: Plantillas operativas con campos obligatorios y criterio de readiness
+- Regla resultante: Ninguna issue P0 entra en ready sin aceptacion verificable y responsable asignado
+- Impacto esperado: Mejor calidad de planificacion y review tecnica mas rapida
+- Estado: confirmada

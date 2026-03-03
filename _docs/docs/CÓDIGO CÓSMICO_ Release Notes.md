@@ -5,6 +5,27 @@
 
 ---
 
+## v1.6 — Start Build Now Pack (2026-03-03)
+
+### Added
+
+- `_docs/docs/CÓDIGO CÓSMICO_ Start Build Now Pack v1.6.md`
+- `_docs/docs/CÓDIGO CÓSMICO_ Week 1 Execution Order v1.6.md`
+- `_docs/docs/CÓDIGO CÓSMICO_ Issue Templates v1.6.md`
+
+### Changed
+
+- `_docs/docs/CÓDIGO CÓSMICO_ Sprint 0 Active Pack v1.5.md` (enlace a assets operativos v1.6)
+- `_docs/docs/CÓDIGO CÓSMICO_ Document Index.md` (v1.4)
+- `_docs/CANON/DECISIONS/decision_log.md` con DEC-0038, DEC-0039, DEC-0040
+
+### Impact
+
+- Queda definido el orden de ejecución de la primera semana.
+- El equipo tiene plantillas listas para abrir issues de build sin fricción.
+
+---
+
 ## v1.5 — Sprint 0 Active Operations (2026-03-03)
 
 ### Added
