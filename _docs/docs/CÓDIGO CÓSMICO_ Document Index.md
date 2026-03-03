@@ -1,7 +1,7 @@
 # Document Index — Mapa Maestro de Documentación
 
 **Proyecto:** Código Cósmico – Evolución Profunda  
-**Versión:** 1.3  
+**Versión:** 1.4  
 **Estado:** Vigente
 
 ---
@@ -37,7 +37,10 @@ Centralizar navegación, propósito y dependencia de todos los documentos activo
 21. `_docs/docs/CÓDIGO CÓSMICO_ Sprint 0 Active Pack v1.5.md`
 22. `_docs/docs/CÓDIGO CÓSMICO_ Sprint 0 Board v1.5.md`
 23. `_docs/docs/CÓDIGO CÓSMICO_ Execution Ownership Matrix v1.5.md`
-24. `_docs/docs/CÓDIGO CÓSMICO_ Release Notes.md`
+24. `_docs/docs/CÓDIGO CÓSMICO_ Start Build Now Pack v1.6.md`
+25. `_docs/docs/CÓDIGO CÓSMICO_ Week 1 Execution Order v1.6.md`
+26. `_docs/docs/CÓDIGO CÓSMICO_ Issue Templates v1.6.md`
+27. `_docs/docs/CÓDIGO CÓSMICO_ Release Notes.md`
 
 ---
 
@@ -67,6 +70,9 @@ Centralizar navegación, propósito y dependencia de todos los documentos activo
 | Sprint 0 Active Pack v1.5 | contrato operativo de sprint activo | Backlog + Kickoff |
 | Sprint 0 Board v1.5 | tablero semanal de tareas y estado | Active Pack |
 | Execution Ownership Matrix v1.5 | ownership operativo por flujo | Active Pack + Board |
+| Start Build Now Pack v1.6 | activación inmediata de ejecución | Sprint 0 Active Pack |
+| Week 1 Execution Order v1.6 | secuencia diaria de trabajo | Start Build Now Pack |
+| Issue Templates v1.6 | plantillas de issues listas para usar | Execution Backlog |
 | Release Notes | historial de cambios documentales | Document Index |
 
 ---
@@ -100,6 +106,10 @@ Centralizar navegación, propósito y dependencia de todos los documentos activo
 ### 4.7 Núcleo operativo de Sprint 0
 
 `Sprint 0 Active Pack -> Sprint 0 Board -> Ownership Matrix -> Daily Execution`
+
+### 4.8 Núcleo de activación inmediata
+
+`Start Build Now Pack -> Week 1 Order -> Issue Templates -> Sprint 0 Board`
 
 ---
 
