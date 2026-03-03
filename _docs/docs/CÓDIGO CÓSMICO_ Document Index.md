@@ -1,7 +1,7 @@
 # Document Index — Mapa Maestro de Documentación
 
 **Proyecto:** Código Cósmico – Evolución Profunda  
-**Versión:** 1.1  
+**Versión:** 1.2  
 **Estado:** Vigente
 
 ---
@@ -32,7 +32,9 @@ Centralizar navegación, propósito y dependencia de todos los documentos activo
 16. `_docs/docs/CÓDIGO CÓSMICO_ Implementation Readiness Pack v1.3.md`
 17. `_docs/docs/CÓDIGO CÓSMICO_ Technical Milestones Plan v1.3.md`
 18. `_docs/docs/CÓDIGO CÓSMICO_ Implementation Risk Matrix v1.3.md`
-19. `_docs/docs/CÓDIGO CÓSMICO_ Release Notes.md`
+19. `_docs/docs/CÓDIGO CÓSMICO_ Execution Backlog v1.4.md`
+20. `_docs/docs/CÓDIGO CÓSMICO_ Sprint 0 Kickoff Checklist v1.4.md`
+21. `_docs/docs/CÓDIGO CÓSMICO_ Release Notes.md`
 
 ---
 
@@ -57,6 +59,8 @@ Centralizar navegación, propósito y dependencia de todos los documentos activo
 | Implementation Readiness Pack v1.3 | criterios de entrada y ejecución | Milestones, Risk Matrix |
 | Technical Milestones Plan v1.3 | secuencia de hitos técnicos | Readiness Pack |
 | Implementation Risk Matrix v1.3 | priorización y mitigación de riesgos | Milestones, Readiness Pack |
+| Execution Backlog v1.4 | epics e historias ejecutables | Milestones Plan |
+| Sprint 0 Kickoff Checklist v1.4 | control de inicio de ejecución | Execution Backlog |
 | Release Notes | historial de cambios documentales | Document Index |
 
 ---
@@ -82,6 +86,10 @@ Centralizar navegación, propósito y dependencia de todos los documentos activo
 ### 4.5 Núcleo de ejecución
 
 `Readiness Pack -> Milestones Plan -> Risk Matrix -> Release Notes`
+
+### 4.6 Núcleo de arranque de ejecución
+
+`Readiness Pack -> Execution Backlog -> Sprint 0 Checklist -> M0`
 
 ---
 

@@ -8,6 +8,8 @@
 - `_docs/docs/CÓDIGO CÓSMICO_ Data Dictionary Complete.md`
 - `_docs/docs/CÓDIGO CÓSMICO_ Technical Milestones Plan v1.3.md`
 - `_docs/docs/CÓDIGO CÓSMICO_ Implementation Risk Matrix v1.3.md`
+- `_docs/docs/CÓDIGO CÓSMICO_ Execution Backlog v1.4.md`
+- `_docs/docs/CÓDIGO CÓSMICO_ Sprint 0 Kickoff Checklist v1.4.md`
 
 ---
 

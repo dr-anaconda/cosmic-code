@@ -340,3 +340,33 @@ Proyecto: Código Cósmico – Evolución Profunda
 - Regla resultante: Riesgos con score >=15 escalan a comite tecnico semanal
 - Impacto esperado: Reduccion de sorpresas de alto impacto en fases de build
 - Estado: confirmada
+
+### DEC-0032
+
+- Fecha: 2026-03-03
+- Documento afectado: Execution Backlog v1.4
+- Pregunta origen: ¿Como aterrizamos hitos en trabajo diario?
+- Opciones elegidas: Epics por hito + historias con prioridad, talla y dependencia
+- Regla resultante: Cada hito M0..M6 debe mapear historias P0/P1 con criterios de aceptacion
+- Impacto esperado: Planificacion semanal ejecutable y trazable
+- Estado: confirmada
+
+### DEC-0033
+
+- Fecha: 2026-03-03
+- Documento afectado: Sprint 0 Kickoff Checklist v1.4
+- Pregunta origen: ¿Que condicion habilita iniciar implementacion?
+- Opciones elegidas: Checklist obligatoria de equipo, entorno, backlog y riesgo
+- Regla resultante: Sprint 0 solo inicia con items P0 completos y aprobacion Product + Tech
+- Impacto esperado: Reduccion de deuda tecnica temprana
+- Estado: confirmada
+
+### DEC-0034
+
+- Fecha: 2026-03-03
+- Documento afectado: Document governance v1.4
+- Pregunta origen: ¿Como versionamos el arranque de ejecucion?
+- Opciones elegidas: Update en index + release notes + decision log
+- Regla resultante: Toda nueva capa de ejecucion debe reflejarse en mapa documental y release notes
+- Impacto esperado: Coherencia de gobernanza y mejor onboarding del equipo
+- Estado: confirmada
