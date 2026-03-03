@@ -5,6 +5,26 @@
 
 ---
 
+## v1.4 — Execution Backlog Ready (2026-03-03)
+
+### Added
+
+- `_docs/docs/CÓDIGO CÓSMICO_ Execution Backlog v1.4.md`
+- `_docs/docs/CÓDIGO CÓSMICO_ Sprint 0 Kickoff Checklist v1.4.md`
+
+### Changed
+
+- `_docs/docs/CÓDIGO CÓSMICO_ Implementation Readiness Pack v1.3.md` (referencias de ejecución)
+- `_docs/docs/CÓDIGO CÓSMICO_ Document Index.md` (v1.2 con núcleo de arranque)
+- `_docs/CANON/DECISIONS/decision_log.md` con DEC-0032, DEC-0033, DEC-0034
+
+### Impact
+
+- El roadmap técnico queda convertido en backlog ejecutable por historias.
+- Se formaliza gate de inicio de Sprint 0 con checklist operativa.
+
+---
+
 ## v1.3 — Implementation Readiness Pack (2026-03-03)
 
 ### Added
