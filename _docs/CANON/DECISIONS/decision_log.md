@@ -210,3 +210,43 @@ Proyecto: Código Cósmico – Evolución Profunda
 - Regla resultante: Cada documento referencia el origen del tema ya tratado y evita redeclarar contenido estructural
 - Impacto esperado: Mayor consistencia, menor ruido y menor deuda editorial
 - Estado: confirmada
+
+### DEC-0019
+
+- Fecha: 2026-03-03
+- Documento afectado: Tournament System
+- Pregunta origen: ¿Que formato competitivo priorizamos para la Tanda 2?
+- Opciones elegidas: Ligas semanales asíncronas con MMR
+- Regla resultante: El sistema competitivo usa temporadas semanales, ligas por rango y emparejamiento asíncrono con simulación por lotes
+- Impacto esperado: Competencia constante sin dependencia de tiempo real
+- Estado: confirmada
+
+### DEC-0020
+
+- Fecha: 2026-03-03
+- Documento afectado: Monetization Spec
+- Pregunta origen: ¿Cual es el limite central de monetizacion?
+- Opciones elegidas: Monetizacion etica sin pay-to-win
+- Regla resultante: Se monetizan cosmeticos, comodidad y aceleracion limitada; se prohiben ventajas competitivas exclusivas por pago
+- Impacto esperado: Sostenibilidad economica con integridad competitiva
+- Estado: confirmada
+
+### DEC-0021
+
+- Fecha: 2026-03-03
+- Documento afectado: Multiplayer Spec
+- Pregunta origen: ¿Como debe operar el multijugador?
+- Opciones elegidas: Asincrono por contrato y colas
+- Regla resultante: Interacciones sociales y competitivas se resuelven en diferido con trazabilidad y controles anti-exploit
+- Impacto esperado: Escalabilidad y accesibilidad para distintos husos horarios
+- Estado: confirmada
+
+### DEC-0022
+
+- Fecha: 2026-03-03
+- Documento afectado: Cross-doc alignment
+- Pregunta origen: ¿Como evitar duplicidad entre Tournament y Multiplayer?
+- Opciones elegidas: Separacion por responsabilidad
+- Regla resultante: Tournament define ligas/MMR/rewards semanales; Multiplayer define banco genetico, contratos sociales, sondas e integridad general
+- Impacto esperado: Documentos complementarios sin superposicion estructural
+- Estado: confirmada
