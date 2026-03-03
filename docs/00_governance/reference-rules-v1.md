@@ -8,6 +8,8 @@ Estado: Vigente
 
 Centralizar reglas editoriales y criterios operativos comunes para todo `docs/`, con una sola fuente de verdad.
 
+Complemento operativo: [session-operating-standard-v1.md](./session-operating-standard-v1.md).
+
 ## 2. Reglas globales de referencia
 
 - Fuente unica por tema: no duplicar contenido que ya existe en otro `.md`.

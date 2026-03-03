@@ -9,8 +9,10 @@ Esta carpeta concentra las reglas de gobierno documental del proyecto: indice ma
 
 ## Documentos en este directorio
 
-- [agentic-workflow-v1.md](agentic-workflow-v1.md)
+- [agentic-workflow-v1.md](./agentic-workflow-v1.md)
 - [CÓDIGO CÓSMICO_ Document Index.md](./CÓDIGO CÓSMICO_ Document Index.md)
+- [reference-rules-v1.md](./reference-rules-v1.md)
+- [session-operating-standard-v1.md](./session-operating-standard-v1.md)
 
 ## Subdirectorios relacionados
 

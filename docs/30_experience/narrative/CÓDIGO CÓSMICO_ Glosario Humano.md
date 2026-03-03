@@ -23,5 +23,5 @@ Si una persona nueva no entiende un término en 10 segundos, hay que explicarlo 
 
 ## Si quieres profundizar
 
-- Términos de producto: `_docs/docs/CÓDIGO CÓSMICO_ PRD.md`
-- Términos técnicos: `_docs/docs/CÓDIGO CÓSMICO_ Data Dictionary Complete.md`
+- Términos de producto: `docs/10_product/CÓDIGO CÓSMICO_ PRD.md`
+- Términos técnicos: `docs/20_systems/CÓDIGO CÓSMICO_ Data Dictionary Complete.md`

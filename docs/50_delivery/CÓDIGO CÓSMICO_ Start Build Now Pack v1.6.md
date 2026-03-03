@@ -2,11 +2,11 @@
 
 **Proyecto:** Código Cósmico – Evolución Profunda  
 **Versión:** 1.6  
-**Estado:** Activo  
+**Estado:** Vigente  
 **Documentos relacionados:**
-- `_docs/docs/CÓDIGO CÓSMICO_ Execution Backlog v1.4.md`
-- `_docs/docs/CÓDIGO CÓSMICO_ Sprint 0 Active Pack v1.5.md`
-- `_docs/docs/CÓDIGO CÓSMICO_ Sprint 0 Board v1.5.md`
+- `docs/50_delivery/CÓDIGO CÓSMICO_ Execution Backlog v1.4.md`
+- `docs/50_delivery/CÓDIGO CÓSMICO_ Sprint 0 Active Pack v1.5.md`
+- `docs/50_delivery/CÓDIGO CÓSMICO_ Sprint 0 Board v1.5.md`
 
 ---
 

@@ -10,3 +10,4 @@
 | OQ-006 | A0 | Alcance MVP | ?Que incluye exactamente el MVP y que se difiere a Fase 2? | product + delivery | Product Owner | 2026-03-03 | Resolved | MVP: 1 planeta, niveles 1-4, sin competitivo/implosion/monetizacion |
 | OQ-007 | A0 | Stack tecnico MVP | ?Que stack minimiza riesgo para equipo de 2-3 personas? | technical + delivery | Tech Lead | 2026-03-03 | Resolved | Flask + SQLAlchemy + SQLite, React + Vite + PixiJS |
 | OQ-008 | A1 | Modelo de ejecucion | ?Seguimos por tiempo o por fases con gates? | governance + delivery | Product + Tech | 2026-03-03 | Resolved | Fases con gates PASS/FAIL, sin calendario fijo |
+| OQ-009 | A1 | Legado v1.4-v1.6 incompleto | ?Se recrean o descartan los docs operativos mencionados en release notes legacy v1.6? | governance + delivery | Product + Tech | 2026-03-07 | Resolved | Integrados en docs/50_delivery y consolidados en release notes oficial |

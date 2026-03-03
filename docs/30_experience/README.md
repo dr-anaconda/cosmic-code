@@ -12,6 +12,7 @@ Esta carpeta define la experiencia de usuario y contenido operativo: interfaz, c
 - [CÓDIGO CÓSMICO_ UI_UX.md](./CÓDIGO CÓSMICO_ UI_UX.md)
 - [CÓDIGO CÓSMICO_ Event & Content Bible.md](./CÓDIGO CÓSMICO_ Event & Content Bible.md)
 - [CÓDIGO CÓSMICO_ Localization Spec.md](./CÓDIGO CÓSMICO_ Localization Spec.md)
+- [narrative/README.md](./narrative/README.md)
 
 ## Reglas y criterios aplicables
 

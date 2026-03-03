@@ -30,4 +30,4 @@ Mobile-first y experiencia web para jugadores más hardcore.
 
 ## ¿Cómo sé por dónde empezar a leer?
 
-Empieza por `_docs/narrative/CÓDIGO CÓSMICO_ Manifiesto.md` y luego sigue `_docs/docs/CÓDIGO CÓSMICO_ Document Index.md`.
+Empieza por `docs/30_experience/narrative/CÓDIGO CÓSMICO_ Manifiesto.md` y luego sigue `docs/00_governance/CÓDIGO CÓSMICO_ Document Index.md`.

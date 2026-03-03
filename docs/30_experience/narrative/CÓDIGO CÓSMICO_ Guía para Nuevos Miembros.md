@@ -17,11 +17,11 @@ Es un juego de evolución sistémica donde el jugador guía vida y civilizacione
 
 ## Ruta rápida de lectura (90 minutos)
 
-1. `_docs/narrative/CÓDIGO CÓSMICO_ Manifiesto.md`
-2. `_docs/docs/CÓDIGO CÓSMICO_ PRD.md`
-3. `_docs/docs/CÓDIGO CÓSMICO_ GDD-lite.md`
-4. `_docs/docs/CÓDIGO CÓSMICO_ Core Loops.md`
-5. `_docs/docs/CÓDIGO CÓSMICO_ Document Index.md`
+1. `docs/30_experience/narrative/CÓDIGO CÓSMICO_ Manifiesto.md`
+2. `docs/10_product/CÓDIGO CÓSMICO_ PRD.md`
+3. `docs/10_product/CÓDIGO CÓSMICO_ GDD-lite.md`
+4. `docs/10_product/CÓDIGO CÓSMICO_ Core Loops.md`
+5. `docs/00_governance/CÓDIGO CÓSMICO_ Document Index.md`
 
 ## Cómo trabajamos
 
@@ -38,5 +38,5 @@ Es un juego de evolución sistémica donde el jugador guía vida y civilizacione
 
 ## Si quieres profundizar
 
-- Mapa documental: `_docs/docs/CÓDIGO CÓSMICO_ Document Index.md`
-- Decisiones históricas: `_docs/CANON/DECISIONS/decision_log.md`
+- Mapa documental: `docs/00_governance/CÓDIGO CÓSMICO_ Document Index.md`
+- Decisiones históricas: `docs/00_governance/decisions/decision_log.md`

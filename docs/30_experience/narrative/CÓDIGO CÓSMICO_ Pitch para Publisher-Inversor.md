@@ -51,6 +51,6 @@ La complejidad sistémica puede volverse fricción si no se controla onboarding 
 
 ## Si quieres profundizar
 
-- Producto/KPIs: `_docs/docs/CÓDIGO CÓSMICO_ PRD.md`
-- Monetización: `_docs/docs/CÓDIGO CÓSMICO_ Monetization Spec.md`
-- Readiness técnica: `_docs/docs/CÓDIGO CÓSMICO_ Implementation Readiness Pack v1.3.md`
+- Producto/KPIs: `docs/10_product/CÓDIGO CÓSMICO_ PRD.md`
+- Monetización: `docs/40_technical/CÓDIGO CÓSMICO_ Monetization Spec.md`
+- Readiness técnica: `docs/50_delivery/CÓDIGO CÓSMICO_ Implementation Readiness Pack v1.3.md`

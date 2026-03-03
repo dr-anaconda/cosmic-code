@@ -2,13 +2,13 @@
 
 **Proyecto:** Código Cósmico – Evolución Profunda  
 **Versión:** 1.5  
-**Estado:** Activo  
+**Estado:** Vigente  
 **Documentos relacionados:**
-- `_docs/docs/CÓDIGO CÓSMICO_ Execution Backlog v1.4.md`
-- `_docs/docs/CÓDIGO CÓSMICO_ Sprint 0 Kickoff Checklist v1.4.md`
-- `_docs/docs/CÓDIGO CÓSMICO_ Technical Milestones Plan v1.3.md`
-- `_docs/docs/CÓDIGO CÓSMICO_ Week 1 Execution Order v1.6.md`
-- `_docs/docs/CÓDIGO CÓSMICO_ Issue Templates v1.6.md`
+- `docs/50_delivery/CÓDIGO CÓSMICO_ Execution Backlog v1.4.md`
+- `docs/50_delivery/CÓDIGO CÓSMICO_ Sprint 0 Kickoff Checklist v1.4.md`
+- `docs/50_delivery/CÓDIGO CÓSMICO_ Technical Milestones Plan v1.3.md`
+- `docs/50_delivery/CÓDIGO CÓSMICO_ Week 1 Execution Order v1.6.md`
+- `docs/50_delivery/CÓDIGO CÓSMICO_ Issue Templates v1.6.md`
 
 ---
 

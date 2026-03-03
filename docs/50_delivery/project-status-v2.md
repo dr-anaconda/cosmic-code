@@ -16,6 +16,7 @@ Ultima actualizacion: 2026-03-03
 
 El proyecto esta en transicion de documentacion extensa a ejecucion controlada de MVP.
 La estructura documental ya fue consolidada en `docs/` y se definio un roadmap por fases.
+Se integraron documentos narrativos importados desde `_docs/` a `docs/30_experience/narrative/`.
 
 ## 2. Estado por fase
 
@@ -46,6 +47,7 @@ La estructura documental ya fue consolidada en `docs/` y se definio un roadmap p
 | R-A0-02 | Scope creep visual en PixiJS | Alta | limitar a planeta + 3 biomas + VFX base |
 | R-A1-01 | Estados documentales inconsistentes | Media | normalizar estado Draft/In Review/Vigente |
 | R-A1-02 | Falta de SoT operativo por dominio | Media | publicar matriz SoT en governance |
+| R-A1-03 | Referencias a artefactos v1.4-v1.6 no presentes | Baja | Resuelto: artefactos integrados en `docs/50_delivery` |
 
 ## 5. Proximo checkpoint de control
 

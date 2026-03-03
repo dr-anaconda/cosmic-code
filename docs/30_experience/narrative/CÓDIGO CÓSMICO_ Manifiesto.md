@@ -28,6 +28,6 @@ Cada ciclo debe sentirse como una historia nueva, no como una repetición.
 
 ## Si quieres profundizar
 
-- Visión de producto: `_docs/docs/CÓDIGO CÓSMICO_ PRD.md`
-- Principios de diseño: `_docs/docs/CÓDIGO CÓSMICO_ GDD-lite.md`
-- Loops de juego: `_docs/docs/CÓDIGO CÓSMICO_ Core Loops.md`
+- Visión de producto: `docs/10_product/CÓDIGO CÓSMICO_ PRD.md`
+- Principios de diseño: `docs/10_product/CÓDIGO CÓSMICO_ GDD-lite.md`
+- Loops de juego: `docs/10_product/CÓDIGO CÓSMICO_ Core Loops.md`

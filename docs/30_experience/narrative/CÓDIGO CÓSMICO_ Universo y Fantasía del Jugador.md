@@ -31,5 +31,5 @@ Queremos una ciencia-ficción contemplativa y tensa, no cínica ni ruidosa. Lo e
 
 ## Si quieres profundizar
 
-- Loops de experiencia: `_docs/docs/CÓDIGO CÓSMICO_ Core Loops.md`
-- Contenido y eventos: `_docs/docs/CÓDIGO CÓSMICO_ Event & Content Bible.md`
+- Loops de experiencia: `docs/10_product/CÓDIGO CÓSMICO_ Core Loops.md`
+- Contenido y eventos: `docs/30_experience/CÓDIGO CÓSMICO_ Event & Content Bible.md`

@@ -2,7 +2,7 @@
 
 **Proyecto:** Código Cósmico – Evolución Profunda  
 **Versión:** 1.5  
-**Estado:** Activo
+**Estado:** Vigente
 
 ---
 

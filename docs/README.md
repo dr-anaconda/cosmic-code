@@ -37,7 +37,7 @@ Este es el punto de entrada oficial de documentacion para **Codigo Cosmico - Evo
 
 - Product Owner: `docs/50_delivery/project-status-v2.md` -> `docs/50_delivery/phase-roadmap-v2.md` -> `docs/10_product/README.md`.
 - Tech Lead: `docs/50_delivery/priority-backlog-v2.md` -> `docs/40_technical/README.md` -> `docs/20_systems/README.md`.
-- UX/Art: `docs/30_experience/README.md` -> `docs/50_delivery/phase-roadmap-v2.md` -> `docs/60_open-questions/open-questions-log.md`.
+- UX/Art: `docs/30_experience/README.md` -> `docs/30_experience/narrative/README.md` -> `docs/50_delivery/phase-roadmap-v2.md`.
 - QA/Editorial: `docs/00_governance/README.md` -> `docs/00_governance/qa/CÓDIGO CÓSMICO_ QA Editorial v1.1.md` -> `docs/50_delivery/phase-gates-v2.md`.
 
 ## Regla de referencias
@@ -51,8 +51,12 @@ Fuente global: `docs/00_governance/reference-rules-v1.md`.
 - `docs/50_delivery/phase-roadmap-v2.md`: roadmap faseado, priorizado y con gates.
 - `docs/50_delivery/phase-gates-v2.md`: checklist PASS/FAIL por fase.
 - `docs/50_delivery/priority-backlog-v2.md`: backlog ejecutable P0/P1/P2.
+- `docs/50_delivery/CÓDIGO CÓSMICO_ Execution Backlog v1.4.md`: backlog operativo por hitos.
+- `docs/50_delivery/CÓDIGO CÓSMICO_ Sprint 0 Active Pack v1.5.md`: contrato operativo de sprint activo.
+- `docs/50_delivery/CÓDIGO CÓSMICO_ Start Build Now Pack v1.6.md`: activacion inmediata de construccion.
 - `docs/00_governance/agentic-workflow-v1.md`: protocolo para flujo agentico en IDE + LLM.
 - `docs/00_governance/reference-rules-v1.md`: reglas y criterios globales de documentacion.
+- `docs/00_governance/session-operating-standard-v1.md`: estandar operativo consolidado para futuras sesiones.
 
 ## Ruta recomendada de lectura
 

@@ -5,6 +5,76 @@
 
 ---
 
+## v2.4 — Imported Legacy Fully Integrated (2026-03-03)
+
+### Changed
+
+- `docs/00_governance/release-notes/CÓDIGO CÓSMICO_ Release Notes.md` (integracion oficial de releases v1.4-v1.6 con rutas vigentes)
+- `docs/00_governance/CÓDIGO CÓSMICO_ Document Index.md` (nota de legado actualizada)
+- `docs/50_delivery/project-status-v2.md` (R-A1-03 resuelto)
+- `docs/60_open-questions/open-questions-log.md` (OQ-009 resuelto)
+
+### Deprecated
+
+- `docs/90_archive/imported/` (el contenido legado fue absorbido en historial oficial)
+
+### Impact
+
+- Se elimina la carpeta de cuarentena `imported` y queda una sola historia de releases vigente.
+
+---
+
+## v2.3 — Intake + Session Standard (2026-03-03)
+
+### Added
+
+- `docs/00_governance/session-operating-standard-v1.md`
+
+### Changed
+
+- `docs/30_experience/narrative/*` migrado desde `_docs/narrative/` con enlaces actualizados
+- `docs/50_delivery/* v1.4-v1.6` reubicado desde `docs/40_technical/` a dominio correcto
+- `docs/00_governance/CÓDIGO CÓSMICO_ Document Index.md` (v1.6)
+- `docs/README.md` y `docs/00_governance/README.md` (integracion del estandar de sesion)
+- `docs/50_delivery/project-status-v2.md` y `docs/60_open-questions/open-questions-log.md` (seguimiento de intake)
+
+### Impact
+
+- Se documenta y estandariza el proceso para futuras sesiones de desarrollo.
+- Queda consolidada la trazabilidad de intake de archivos externos a `docs/`.
+
+---
+
+## v2.2 — Import Intake from _docs (2026-03-03)
+
+### Added
+
+- `docs/30_experience/narrative/README.md`
+- `docs/30_experience/narrative/CÓDIGO CÓSMICO_ Manifiesto.md`
+- `docs/30_experience/narrative/CÓDIGO CÓSMICO_ Guía para Nuevos Miembros.md`
+- `docs/30_experience/narrative/CÓDIGO CÓSMICO_ Universo y Fantasía del Jugador.md`
+- `docs/30_experience/narrative/CÓDIGO CÓSMICO_ Guía para Comunidad.md`
+- `docs/30_experience/narrative/CÓDIGO CÓSMICO_ Pitch para Publisher-Inversor.md`
+- `docs/30_experience/narrative/CÓDIGO CÓSMICO_ FAQ Narrativa.md`
+- `docs/30_experience/narrative/CÓDIGO CÓSMICO_ Glosario Humano.md`
+- `docs/30_experience/narrative/CÓDIGO CÓSMICO_ Diario de Temporada (plantilla).md`
+
+### Changed
+
+- `docs/00_governance/CÓDIGO CÓSMICO_ Document Index.md` (v1.5, catalogo actualizado)
+- `docs/30_experience/README.md` (incluye subdirectorio narrative)
+- `docs/90_archive/README.md` (incluye bloque imported)
+- `docs/50_delivery/project-status-v2.md` (riesgo A1 por artefactos legacy incompletos)
+- `docs/50_delivery/README.md` (incluye packs operativos v1.4-v1.6)
+- `docs/60_open-questions/open-questions-log.md` (alta de OQ-009)
+
+### Impact
+
+- Los archivos nuevos de `_docs/` quedan procesados e integrados en la estructura oficial.
+- Se habilita consolidacion de releases legacy dentro del historial oficial.
+
+---
+
 ## v2.1 — Reference Rules Consolidation (2026-03-03)
 
 ### Added
@@ -44,6 +114,68 @@
 
 - El proyecto pasa a ejecucion por fases y gates, sin calendario fijo.
 - El flujo en IDE con LLM queda estandarizado para reducir ambiguedad y retrabajo.
+
+---
+
+## v1.6 — Start Build Now Pack (2026-03-03)
+
+### Added
+
+- `docs/50_delivery/CÓDIGO CÓSMICO_ Start Build Now Pack v1.6.md`
+- `docs/50_delivery/CÓDIGO CÓSMICO_ Week 1 Execution Order v1.6.md`
+- `docs/50_delivery/CÓDIGO CÓSMICO_ Issue Templates v1.6.md`
+
+### Changed
+
+- `docs/50_delivery/CÓDIGO CÓSMICO_ Sprint 0 Active Pack v1.5.md`
+- `docs/00_governance/CÓDIGO CÓSMICO_ Document Index.md`
+- `docs/00_governance/decisions/decision_log.md` con DEC-0038, DEC-0039, DEC-0040
+
+### Impact
+
+- Queda definido el orden de ejecucion de la primera semana.
+- El equipo tiene plantillas listas para abrir issues de build sin friccion.
+
+---
+
+## v1.5 — Sprint 0 Active Operations (2026-03-03)
+
+### Added
+
+- `docs/50_delivery/CÓDIGO CÓSMICO_ Sprint 0 Active Pack v1.5.md`
+- `docs/50_delivery/CÓDIGO CÓSMICO_ Sprint 0 Board v1.5.md`
+- `docs/50_delivery/CÓDIGO CÓSMICO_ Execution Ownership Matrix v1.5.md`
+
+### Changed
+
+- `docs/50_delivery/CÓDIGO CÓSMICO_ Implementation Readiness Pack v1.3.md`
+- `docs/00_governance/CÓDIGO CÓSMICO_ Document Index.md`
+- `docs/00_governance/decisions/decision_log.md` con DEC-0035, DEC-0036, DEC-0037
+
+### Impact
+
+- Se pasa de backlog preparado a operacion diaria de Sprint 0 con tablero y ownership explicito.
+- Se reduce ambiguedad de responsables y escalado en ejecucion.
+
+---
+
+## v1.4 — Execution Backlog Ready (2026-03-03)
+
+### Added
+
+- `docs/50_delivery/CÓDIGO CÓSMICO_ Execution Backlog v1.4.md`
+- `docs/50_delivery/CÓDIGO CÓSMICO_ Sprint 0 Kickoff Checklist v1.4.md`
+
+### Changed
+
+- `docs/50_delivery/CÓDIGO CÓSMICO_ Implementation Readiness Pack v1.3.md`
+- `docs/00_governance/CÓDIGO CÓSMICO_ Document Index.md`
+- `docs/00_governance/decisions/decision_log.md` con DEC-0032, DEC-0033, DEC-0034
+
+### Impact
+
+- El roadmap tecnico queda convertido en backlog ejecutable por historias.
+- Se formaliza gate de inicio de Sprint 0 con checklist operativa.
 
 ---
 

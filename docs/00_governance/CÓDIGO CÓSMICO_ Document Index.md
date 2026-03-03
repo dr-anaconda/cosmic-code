@@ -1,144 +1,126 @@
-# Document Index — Mapa Maestro de Documentación
+# Document Index — Mapa Maestro de Documentacion
 
-**Proyecto:** Código Cósmico – Evolución Profunda  
-**Versión:** 1.4  
+**Proyecto:** Codigo Cosmico - Evolucion Profunda  
+**Version:** 1.6  
 **Estado:** Vigente
 
 ---
 
-## 1. Propósito
+## 1. Proposito
 
-Centralizar navegación, propósito y dependencia de todos los documentos activos del proyecto para evitar duplicación, pérdida de contexto y deriva editorial.
-
----
-
-## 2. Ruta de Lectura Recomendada
-
-2. `_docs/docs/CÓDIGO CÓSMICO_ PRD.md`
-3. `_docs/docs/CÓDIGO CÓSMICO_ GDD-lite.md`
-4. `_docs/docs/CÓDIGO CÓSMICO_ Core Loops.md`
-5. `_docs/docs/CÓDIGO CÓSMICO_ System Balance Sheet.md`
-6. `_docs/docs/CÓDIGO CÓSMICO_ Data Dictionary.md`
-7. `_docs/docs/CÓDIGO CÓSMICO_ Data Dictionary Complete.md`
-8. `_docs/docs/CÓDIGO CÓSMICO_ ADD.md`
-9. `_docs/docs/CÓDIGO CÓSMICO_ UI_UX.md`
-10. `_docs/docs/CÓDIGO CÓSMICO_ Event & Content Bible.md`
-11. `_docs/docs/CÓDIGO CÓSMICO_ Tournament System.md`
-12. `_docs/docs/CÓDIGO CÓSMICO_ Multiplayer Spec.md`
-13. `_docs/docs/CÓDIGO CÓSMICO_ Monetization Spec.md`
-14. `_docs/docs/CÓDIGO CÓSMICO_ Localization Spec.md`
-15. `_docs/docs/CÓDIGO CÓSMICO_ QA Editorial v1.1.md`
-16. `_docs/docs/CÓDIGO CÓSMICO_ Implementation Readiness Pack v1.3.md`
-17. `_docs/docs/CÓDIGO CÓSMICO_ Technical Milestones Plan v1.3.md`
-18. `_docs/docs/CÓDIGO CÓSMICO_ Implementation Risk Matrix v1.3.md`
-19. `_docs/docs/CÓDIGO CÓSMICO_ Execution Backlog v1.4.md`
-20. `_docs/docs/CÓDIGO CÓSMICO_ Sprint 0 Kickoff Checklist v1.4.md`
-21. `_docs/docs/CÓDIGO CÓSMICO_ Sprint 0 Active Pack v1.5.md`
-22. `_docs/docs/CÓDIGO CÓSMICO_ Sprint 0 Board v1.5.md`
-23. `_docs/docs/CÓDIGO CÓSMICO_ Execution Ownership Matrix v1.5.md`
-24. `_docs/docs/CÓDIGO CÓSMICO_ Start Build Now Pack v1.6.md`
-25. `_docs/docs/CÓDIGO CÓSMICO_ Week 1 Execution Order v1.6.md`
-26. `_docs/docs/CÓDIGO CÓSMICO_ Issue Templates v1.6.md`
-27. `_docs/docs/CÓDIGO CÓSMICO_ Release Notes.md`
-1. `_docs/init/GDD_ CÓDIGO CÓSMICO – EVOLUCIÓN PROFUNDA.md`
+Centralizar navegacion, ownership y dependencias de la documentacion activa, evitando duplicacion y deriva editorial.
 
 ---
 
-## 3. Catálogo Activo
+## 2. Ruta de lectura recomendada
+
+1. `docs/50_delivery/project-status-v2.md`
+2. `docs/50_delivery/phase-roadmap-v2.md`
+3. `docs/50_delivery/phase-gates-v2.md`
+4. `docs/50_delivery/priority-backlog-v2.md`
+5. `docs/10_product/CÓDIGO CÓSMICO_ PRD.md`
+6. `docs/10_product/CÓDIGO CÓSMICO_ GDD-lite.md`
+7. `docs/10_product/CÓDIGO CÓSMICO_ Core Loops.md`
+8. `docs/20_systems/CÓDIGO CÓSMICO_ System Balance Sheet.md`
+9. `docs/20_systems/CÓDIGO CÓSMICO_ Data Dictionary.md`
+10. `docs/20_systems/CÓDIGO CÓSMICO_ Data Dictionary Complete.md`
+11. `docs/40_technical/CÓDIGO CÓSMICO_ ADD.md`
+12. `docs/30_experience/CÓDIGO CÓSMICO_ UI_UX.md`
+13. `docs/30_experience/CÓDIGO CÓSMICO_ Event & Content Bible.md`
+14. `docs/30_experience/CÓDIGO CÓSMICO_ Localization Spec.md`
+15. `docs/30_experience/narrative/README.md`
+16. `docs/00_governance/qa/CÓDIGO CÓSMICO_ QA Editorial v1.1.md`
+17. `docs/00_governance/reference-rules-v1.md`
+18. `docs/00_governance/session-operating-standard-v1.md`
+19. `docs/00_governance/agentic-workflow-v1.md`
+20. `docs/00_governance/release-notes/CÓDIGO CÓSMICO_ Release Notes.md`
+21. `docs/50_delivery/CÓDIGO CÓSMICO_ Execution Backlog v1.4.md`
+22. `docs/50_delivery/CÓDIGO CÓSMICO_ Sprint 0 Kickoff Checklist v1.4.md`
+23. `docs/50_delivery/CÓDIGO CÓSMICO_ Sprint 0 Active Pack v1.5.md`
+24. `docs/50_delivery/CÓDIGO CÓSMICO_ Sprint 0 Board v1.5.md`
+25. `docs/50_delivery/CÓDIGO CÓSMICO_ Execution Ownership Matrix v1.5.md`
+26. `docs/50_delivery/CÓDIGO CÓSMICO_ Start Build Now Pack v1.6.md`
+27. `docs/50_delivery/CÓDIGO CÓSMICO_ Week 1 Execution Order v1.6.md`
+28. `docs/50_delivery/CÓDIGO CÓSMICO_ Issue Templates v1.6.md`
+
+---
+
+## 3. Catalogo activo
 
 | Documento | Rol principal | No duplicar con |
 |---|---|---|
-| PRD | visión de producto, KPIs, alcance | GDD-lite, Balance |
-| GDD-lite | principios de diseño y límites | PRD, Core Loops |
-| Core Loops | dinámica de juego por escalas | GDD-lite |
-| System Balance Sheet | fórmulas, umbrales y targets | Data Dictionary |
+| PRD | vision de producto, KPIs, alcance | GDD-lite, Balance |
+| GDD-lite | principios de diseno y limites | PRD, Core Loops |
+| Core Loops | dinamica de juego por escalas | GDD-lite |
+| System Balance Sheet | formulas, umbrales y targets | Data Dictionary |
 | Data Dictionary | entidades y campos clave | Data Dictionary Complete |
-| Data Dictionary Complete | tipos, índices, restricciones | ADD |
-| ADD | arquitectura técnica y despliegue | Data Dictionary Complete |
+| Data Dictionary Complete | tipos, indices y restricciones | ADD |
+| ADD | arquitectura tecnica y despliegue | Data Dictionary Complete |
 | UI/UX | experiencia, componentes y responsive | Event Bible |
-| Event & Content Bible | taxonomía y operación de contenido | Localization |
-| Tournament System | ligas, MMR, rewards competitivos | Multiplayer Spec |
-| Multiplayer Spec | contratos sociales y asíncronos | Tournament System |
-| Monetization Spec | economía ética y guardrails | Balance |
-| Localization Spec | i18n, glosario, pipeline lingüístico | QA Editorial |
-| QA Editorial v1.1 | scorecard y gate documental | CANON base |
-| Implementation Readiness Pack v1.3 | criterios de entrada y ejecución | Milestones, Risk Matrix |
-| Technical Milestones Plan v1.3 | secuencia de hitos técnicos | Readiness Pack |
-| Implementation Risk Matrix v1.3 | priorización y mitigación de riesgos | Milestones, Readiness Pack |
-| Execution Backlog v1.4 | epics e historias ejecutables | Milestones Plan |
-| Sprint 0 Kickoff Checklist v1.4 | control de inicio de ejecución | Execution Backlog |
-| Sprint 0 Active Pack v1.5 | contrato operativo de sprint activo | Backlog + Kickoff |
-| Sprint 0 Board v1.5 | tablero semanal de tareas y estado | Active Pack |
-| Execution Ownership Matrix v1.5 | ownership operativo por flujo | Active Pack + Board |
-| Start Build Now Pack v1.6 | activación inmediata de ejecución | Sprint 0 Active Pack |
-| Week 1 Execution Order v1.6 | secuencia diaria de trabajo | Start Build Now Pack |
-| Issue Templates v1.6 | plantillas de issues listas para usar | Execution Backlog |
-| Release Notes | historial de cambios documentales | Document Index |
-| project-status-v2 | estado actual por fase y bloqueos | roadmap/backlog |
-| phase-roadmap-v2 | ejecucion por fases y prioridades | milestones con tiempo |
+| Event & Content Bible | taxonomia y operacion de contenido | Localization |
+| Localization Spec | i18n, glosario, pipeline linguistico | QA Editorial |
+| Narrative Docs | onboarding humano, comunidad y pitch | PRD, UI/UX |
+| QA Editorial v1.1 | scorecard y gate documental | reference-rules |
+| phase-roadmap-v2 | ejecucion por fases y prioridades | milestones por tiempo |
 | phase-gates-v2 | gate PASS/FAIL por fase | QA editorial |
 | priority-backlog-v2 | cola ejecutable P0/P1/P2 | roadmap narrativo |
+| project-status-v2 | estado actual por fase y bloqueos | roadmap/backlog |
+| session-operating-standard-v1 | reglas de trabajo inter-sesion y estructura | reference-rules + workflow |
+| Execution Backlog v1.4 | epics e historias ejecutables | phase-roadmap-v2 |
+| Sprint 0 Kickoff Checklist v1.4 | control de inicio de ejecucion | Execution Backlog v1.4 |
+| Sprint 0 Active Pack v1.5 | contrato operativo de sprint activo | Kickoff + Backlog |
+| Sprint 0 Board v1.5 | tablero semanal de tareas y estado | Sprint 0 Active Pack v1.5 |
+| Execution Ownership Matrix v1.5 | ownership operativo por flujo | Sprint 0 Active Pack v1.5 |
+| Start Build Now Pack v1.6 | activacion inmediata de ejecucion | Sprint 0 Active Pack v1.5 |
+| Week 1 Execution Order v1.6 | secuencia diaria de ejecucion | Start Build Now Pack v1.6 |
+| Issue Templates v1.6 | plantillas operativas para issues | Execution Backlog v1.4 |
 | agentic-workflow-v1 | protocolo operativo IDE + LLM | canon general |
+| reference-rules-v1 | reglas globales de referencia y trazabilidad | docs README |
+| Release Notes | historial de cambios documentales | Document Index |
 
 ---
 
-## 4. Dependencias Críticas
+## 4. Dependencias criticas
 
-### 4.1 Núcleo de producto
+### 4.1 Nucleo de producto
 
 `PRD -> GDD-lite -> Core Loops`
 
-### 4.2 Núcleo técnico
+### 4.2 Nucleo tecnico
 
 `Core Loops -> Balance -> Data Dictionary -> Data Dictionary Complete -> ADD`
 
-### 4.3 Núcleo de operación
+### 4.3 Nucleo de experiencia
 
-`UI/UX + Event Bible + Localization + QA Editorial`
+`UI/UX + Event Bible + Localization + Narrative Docs`
 
-### 4.4 Núcleo competitivo-económico
+### 4.4 Nucleo de ejecucion
 
-`Tournament System + Multiplayer Spec + Monetization Spec`
-
-### 4.5 Núcleo de ejecución
-
-`Readiness Pack -> Milestones Plan -> Risk Matrix -> Release Notes`
-
-### 4.6 Núcleo de arranque de ejecución
-
-`Readiness Pack -> Execution Backlog -> Sprint 0 Checklist -> M0`
-
-### 4.7 Núcleo operativo de Sprint 0
-
-`Sprint 0 Active Pack -> Sprint 0 Board -> Ownership Matrix -> Daily Execution`
-
-### 4.8 Núcleo de activación inmediata
-
-`Start Build Now Pack -> Week 1 Order -> Issue Templates -> Sprint 0 Board`
+`project-status -> phase-roadmap -> phase-gates -> priority-backlog`
 
 ---
 
-## 5. Responsables sugeridos
+## 5. Politica de actualizacion
 
-| Área | Owner sugerido |
-|---|---|
-| Producto | Product Owner |
-| Diseño sistémico | Game Design Lead |
-| Datos/arquitectura | Tech Lead |
-| UX y contenido | UX Lead + Narrative Lead |
-| QA documental | Editor técnico |
+- Cada documento nuevo debe declararse aqui.
+- Todo cambio mayor debe reflejarse en `docs/00_governance/release-notes/CÓDIGO CÓSMICO_ Release Notes.md`.
+- Si se migra contenido desde `_docs/`, registrar decision y destino final.
+- Si un archivo legado contradice contenido activo, prevalece el documento activo mas reciente.
 
 ---
 
-## 6. Política de Actualización
+## 6. Nota sobre legado importado
 
-- Cada nuevo documento debe añadirse aquí.
-- Cada cambio mayor de versión debe reflejarse en `docs/00_governance/release-notes/CÓDIGO CÓSMICO_ Release Notes.md`.
-- Si un documento se depreca, marcarlo explícitamente y proponer reemplazo.
+Se importaron archivos desde `_docs/`.
+
+- Narrativa activa migrada a `docs/30_experience/narrative/`.
+- Releases legacy v1.4-v1.6 integrados en `docs/00_governance/release-notes/CÓDIGO CÓSMICO_ Release Notes.md`.
+
+Las referencias del legado no reemplazan la documentacion activa vigente.
 
 ---
 
-## 7. Checklist del índice
+## 7. Checklist del indice
 
 - [ ] Todos los docs activos listados
 - [ ] Ruta de lectura actualizada
@@ -147,6 +129,6 @@ Centralizar navegación, propósito y dependencia de todos los documentos activo
 
 ---
 
-## 8. Declaración Final
+## 8. Declaracion final
 
-Este índice es el punto de entrada documental oficial del proyecto. Antes de crear o modificar documentos, revisar este mapa para preservar coherencia global.
+Este indice es el punto de entrada documental oficial del proyecto. Antes de crear o modificar contenido, validar primero este mapa.

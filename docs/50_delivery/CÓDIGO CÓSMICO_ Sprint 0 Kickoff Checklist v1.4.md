@@ -2,11 +2,11 @@
 
 **Proyecto:** Código Cósmico – Evolución Profunda  
 **Versión:** 1.4  
-**Estado:** Borrador  
+**Estado:** Vigente  
 **Documentos relacionados:**
-- `_docs/docs/CÓDIGO CÓSMICO_ Execution Backlog v1.4.md`
-- `_docs/docs/CÓDIGO CÓSMICO_ Technical Milestones Plan v1.3.md`
-- `_docs/docs/CÓDIGO CÓSMICO_ Implementation Risk Matrix v1.3.md`
+- `docs/50_delivery/CÓDIGO CÓSMICO_ Execution Backlog v1.4.md`
+- `docs/50_delivery/CÓDIGO CÓSMICO_ Technical Milestones Plan v1.3.md`
+- `docs/50_delivery/CÓDIGO CÓSMICO_ Implementation Risk Matrix v1.3.md`
 
 ---
 

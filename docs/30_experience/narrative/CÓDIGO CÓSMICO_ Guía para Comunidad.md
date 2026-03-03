@@ -37,5 +37,5 @@ Escuchar feedback no significa aplicar todo, sino tomar decisiones coherentes co
 
 ## Si quieres profundizar
 
-- Notas de versión documental: `_docs/docs/CÓDIGO CÓSMICO_ Release Notes.md`
-- Competitivo: `_docs/docs/CÓDIGO CÓSMICO_ Tournament System.md`
+- Notas de versión documental: `docs/00_governance/release-notes/CÓDIGO CÓSMICO_ Release Notes.md`
+- Competitivo: `docs/40_technical/CÓDIGO CÓSMICO_ Tournament System.md`
