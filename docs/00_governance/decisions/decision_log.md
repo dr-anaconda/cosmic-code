@@ -340,3 +340,93 @@ Proyecto: Código Cósmico – Evolución Profunda
 - Regla resultante: Riesgos con score >=15 escalan a comite tecnico semanal
 - Impacto esperado: Reduccion de sorpresas de alto impacto en fases de build
 - Estado: confirmada
+
+### DEC-0032
+
+- Fecha: 2026-03-03
+- Documento afectado: Execution Backlog v1.4
+- Pregunta origen: ¿Como aterrizamos hitos en trabajo diario?
+- Opciones elegidas: Epics por hito + historias con prioridad, talla y dependencia
+- Regla resultante: Cada hito M0..M6 debe mapear historias P0/P1 con criterios de aceptacion
+- Impacto esperado: Planificacion semanal ejecutable y trazable
+- Estado: confirmada
+
+### DEC-0033
+
+- Fecha: 2026-03-03
+- Documento afectado: Sprint 0 Kickoff Checklist v1.4
+- Pregunta origen: ¿Que condicion habilita iniciar implementacion?
+- Opciones elegidas: Checklist obligatoria de equipo, entorno, backlog y riesgo
+- Regla resultante: Sprint 0 solo inicia con items P0 completos y aprobacion Product + Tech
+- Impacto esperado: Reduccion de deuda tecnica temprana
+- Estado: confirmada
+
+### DEC-0034
+
+- Fecha: 2026-03-03
+- Documento afectado: Document governance v1.4
+- Pregunta origen: ¿Como versionamos el arranque de ejecucion?
+- Opciones elegidas: Update en index + release notes + decision log
+- Regla resultante: Toda nueva capa de ejecucion debe reflejarse en mapa documental y release notes
+- Impacto esperado: Coherencia de gobernanza y mejor onboarding del equipo
+- Estado: confirmada
+
+### DEC-0035
+
+- Fecha: 2026-03-03
+- Documento afectado: Sprint 0 Active Pack v1.5
+- Pregunta origen: ¿Como operamos Sprint 0 dia a dia?
+- Opciones elegidas: Pack activo con KPIs, criterios de exito/fracaso y contingencia
+- Regla resultante: Sprint 0 requiere objetivos no negociables y seguimiento diario con umbrales claros
+- Impacto esperado: Mayor control de ejecución en arranque técnico
+- Estado: confirmada
+
+### DEC-0036
+
+- Fecha: 2026-03-03
+- Documento afectado: Sprint 0 Board v1.5
+- Pregunta origen: ¿Como visualizamos trabajo activo de arranque?
+- Opciones elegidas: Tablero semanal por estados con WIP y regla de bloqueos
+- Regla resultante: Tareas P0/P1 se gestionan con límites de trabajo en curso y escalado por tiempo bloqueado
+- Impacto esperado: Flujo de trabajo más estable y predecible
+- Estado: confirmada
+
+### DEC-0037
+
+- Fecha: 2026-03-03
+- Documento afectado: Execution Ownership Matrix v1.5
+- Pregunta origen: ¿Como evitamos zonas grises de responsabilidad?
+- Opciones elegidas: Matriz de ownership por flujo y regla de escalado
+- Regla resultante: Toda tarea P0 debe tener Responsible/Accountable explícitos y ETA
+- Impacto esperado: Menos bloqueos por falta de dueño y mejor accountability
+- Estado: confirmada
+
+### DEC-0038
+
+- Fecha: 2026-03-03
+- Documento afectado: Start Build Now Pack v1.6
+- Pregunta origen: ¿Como activamos construccion inmediata sin perder control?
+- Opciones elegidas: Paquete de activacion con T-0, reglas diarias y criterios de salida de semana 1
+- Regla resultante: Se define una activacion formal previa a build con umbrales y anti-patrones
+- Impacto esperado: Menor friccion de inicio y mayor previsibilidad de sprint
+- Estado: confirmada
+
+### DEC-0039
+
+- Fecha: 2026-03-03
+- Documento afectado: Week 1 Execution Order v1.6
+- Pregunta origen: ¿Que secuencia minimiza riesgo en primera semana?
+- Opciones elegidas: Orden diario D1..D5 con prioridad por dependencias
+- Regla resultante: Se prioriza estabilidad de pipeline y contratos antes de expansion de alcance
+- Impacto esperado: Arranque tecnico controlado y menos retrabajo
+- Estado: confirmada
+
+### DEC-0040
+
+- Fecha: 2026-03-03
+- Documento afectado: Issue Templates v1.6
+- Pregunta origen: ¿Como estandarizamos calidad de issues P0?
+- Opciones elegidas: Plantillas operativas con campos obligatorios y criterio de readiness
+- Regla resultante: Ninguna issue P0 entra en ready sin aceptacion verificable y responsable asignado
+- Impacto esperado: Mejor calidad de planificacion y review tecnica mas rapida
+- Estado: confirmada
