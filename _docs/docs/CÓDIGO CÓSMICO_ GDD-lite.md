@@ -329,6 +329,8 @@ Todo el multijugador es **asíncrono**:
 | `_docs/docs/CÓDIGO CÓSMICO_ UI_UX.md` | Especificación de interfaces (no aquí) |
 | `_docs/docs/CÓDIGO CÓSMICO_ ADD.md` | Arquitectura técnica (no aquí) |
 | `_docs/docs/CÓDIGO CÓSMICO_ Tournament System.md` | Sistema competitivo semanal (no aquí) |
+| `_docs/docs/CÓDIGO CÓSMICO_ Event & Content Bible.md` | Taxonomía y operación de contenido (no aquí) |
+| `_docs/docs/CÓDIGO CÓSMICO_ Localization Spec.md` | Internacionalización y glosario (no aquí) |
 
 ---
 

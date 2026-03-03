@@ -7,6 +7,7 @@
 - `_docs/init/GDD_ CÓDIGO CÓSMICO – EVOLUCIÓN PROFUNDA.md`
 - `_docs/docs/CÓDIGO CÓSMICO_ GDD-lite.md`
 - `_docs/docs/CÓDIGO CÓSMICO_ Core Loops.md`
+- `_docs/docs/CÓDIGO CÓSMICO_ Localization Spec.md`
 
 ---
 
