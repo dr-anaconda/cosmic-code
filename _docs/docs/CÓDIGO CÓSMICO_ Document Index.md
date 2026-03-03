@@ -1,7 +1,7 @@
 # Document Index — Mapa Maestro de Documentación
 
 **Proyecto:** Código Cósmico – Evolución Profunda  
-**Versión:** 1.0  
+**Versión:** 1.1  
 **Estado:** Vigente
 
 ---
@@ -29,6 +29,10 @@ Centralizar navegación, propósito y dependencia de todos los documentos activo
 13. `_docs/docs/CÓDIGO CÓSMICO_ Monetization Spec.md`
 14. `_docs/docs/CÓDIGO CÓSMICO_ Localization Spec.md`
 15. `_docs/docs/CÓDIGO CÓSMICO_ QA Editorial v1.1.md`
+16. `_docs/docs/CÓDIGO CÓSMICO_ Implementation Readiness Pack v1.3.md`
+17. `_docs/docs/CÓDIGO CÓSMICO_ Technical Milestones Plan v1.3.md`
+18. `_docs/docs/CÓDIGO CÓSMICO_ Implementation Risk Matrix v1.3.md`
+19. `_docs/docs/CÓDIGO CÓSMICO_ Release Notes.md`
 
 ---
 
@@ -50,6 +54,10 @@ Centralizar navegación, propósito y dependencia de todos los documentos activo
 | Monetization Spec | economía ética y guardrails | Balance |
 | Localization Spec | i18n, glosario, pipeline lingüístico | QA Editorial |
 | QA Editorial v1.1 | scorecard y gate documental | CANON base |
+| Implementation Readiness Pack v1.3 | criterios de entrada y ejecución | Milestones, Risk Matrix |
+| Technical Milestones Plan v1.3 | secuencia de hitos técnicos | Readiness Pack |
+| Implementation Risk Matrix v1.3 | priorización y mitigación de riesgos | Milestones, Readiness Pack |
+| Release Notes | historial de cambios documentales | Document Index |
 
 ---
 
@@ -70,6 +78,10 @@ Centralizar navegación, propósito y dependencia de todos los documentos activo
 ### 4.4 Núcleo competitivo-económico
 
 `Tournament System + Multiplayer Spec + Monetization Spec`
+
+### 4.5 Núcleo de ejecución
+
+`Readiness Pack -> Milestones Plan -> Risk Matrix -> Release Notes`
 
 ---
 

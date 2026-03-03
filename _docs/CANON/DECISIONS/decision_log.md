@@ -310,3 +310,33 @@ Proyecto: Código Cósmico – Evolución Profunda
 - Regla resultante: Cada lote documental debe registrar Added/Changed/Impact y fecha
 - Impacto esperado: Trazabilidad historica clara para auditoria y mantenimiento
 - Estado: confirmada
+
+### DEC-0029
+
+- Fecha: 2026-03-03
+- Documento afectado: Implementation Readiness Pack v1.3
+- Pregunta origen: ¿Como pasamos de documentacion a ejecucion?
+- Opciones elegidas: Pack de readiness con DoR/DoD, RACI y criterios Go/No-Go
+- Regla resultante: Ningun bloque entra a build sin entry criteria y ownership definido
+- Impacto esperado: Arranque tecnico controlado y menos ambigüedad operativa
+- Estado: confirmada
+
+### DEC-0030
+
+- Fecha: 2026-03-03
+- Documento afectado: Technical Milestones Plan v1.3
+- Pregunta origen: ¿Que secuencia de entrega minimiza riesgo?
+- Opciones elegidas: M0..M6 incremental con gates de salida
+- Regla resultante: La ejecucion tecnica avanza por hitos secuenciales con criterios de salida obligatorios
+- Impacto esperado: Mayor previsibilidad de plazos y calidad
+- Estado: confirmada
+
+### DEC-0031
+
+- Fecha: 2026-03-03
+- Documento afectado: Implementation Risk Matrix v1.3
+- Pregunta origen: ¿Como gobernamos riesgos de implementacion?
+- Opciones elegidas: Matriz priorizada con score, mitigacion y contingencia
+- Regla resultante: Riesgos con score >=15 escalan a comite tecnico semanal
+- Impacto esperado: Reduccion de sorpresas de alto impacto en fases de build
+- Estado: confirmada
