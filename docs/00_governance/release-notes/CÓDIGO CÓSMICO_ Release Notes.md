@@ -5,6 +5,52 @@
 
 ---
 
+## v2.9 — Character Wave 02 and Recursive Matrices (2026-03-04)
+
+### Added
+
+- `docs/30_experience/narrative/expansion/CÓDIGO CÓSMICO_ Recursive Character Expansion Plan v1.0.md`
+- `docs/30_experience/narrative/expansion/CÓDIGO CÓSMICO_ Character Multiscale Templates v1.0.md`
+- `docs/30_experience/narrative/expansion/CÓDIGO CÓSMICO_ Character Cosmos Topology Registry v1.0.md`
+- `docs/30_experience/narrative/expansion/CÓDIGO CÓSMICO_ Character Population Matrix 800 v1.0.md`
+- `docs/30_experience/narrative/expansion/CÓDIGO CÓSMICO_ Arc Assignment Matrix v1.0.md`
+- `docs/30_experience/narrative/expansion/CÓDIGO CÓSMICO_ Character Wave 02 Principales v1.0.md`
+- `docs/30_experience/narrative/expansion/CÓDIGO CÓSMICO_ Character Wave 02 Secundarios v1.0.md`
+
+### Changed
+
+- `docs/30_experience/narrative/expansion/README.md` (indice completo del framework de personajes)
+- `docs/00_governance/decisions/decision_log.md` (DEC-0061..DEC-0066)
+
+### Impact
+
+- Se habilita framework recursivo completo para escalar a 800 personajes con distribucion cosmologica.
+- Se publica Wave 02 con 160 fichas (40 principales + 120 secundarios) con profundidad minima trazable.
+
+---
+
+## v2.8 — Recursive Character Expansion Framework (2026-03-04)
+
+### Added
+
+- `docs/30_experience/narrative/expansion/CÓDIGO CÓSMICO_ Recursive Character Expansion Plan v1.0.md`
+- `docs/30_experience/narrative/expansion/CÓDIGO CÓSMICO_ Character Multiscale Templates v1.0.md`
+- `docs/30_experience/narrative/expansion/CÓDIGO CÓSMICO_ Character Cosmos Topology Registry v1.0.md`
+- `docs/30_experience/narrative/expansion/CÓDIGO CÓSMICO_ Character Population Matrix 800 v1.0.md`
+- `docs/30_experience/narrative/expansion/CÓDIGO CÓSMICO_ Arc Assignment Matrix v1.0.md`
+
+### Changed
+
+- `docs/30_experience/narrative/expansion/README.md` (indice ampliado de framework de personajes)
+- `docs/00_governance/decisions/decision_log.md` (DEC-0061..DEC-0063)
+
+### Impact
+
+- Se habilita framework recursivo para escalar roster a 800 personajes con distribucion cosmologica y control de profundidad.
+- Se formaliza poblacion inicial y asignacion de arcos para ejecucion por lotes.
+
+---
+
 ## v2.7 — Narrative Expansion Massive Commit (2026-03-04)
 
 ### Added

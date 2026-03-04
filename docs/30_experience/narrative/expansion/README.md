@@ -23,6 +23,13 @@ Expandir en volumen (x2) la base de contenido utilizable en runtime narrativo:
 3. `CÓDIGO CÓSMICO_ Chain Seed Library v1.0.md`
 4. `CÓDIGO CÓSMICO_ Subfaction Seed Atlas v1.0.md`
 5. `CÓDIGO CÓSMICO_ Narrative Hooks for Game Design v1.0.md`
+6. `CÓDIGO CÓSMICO_ Recursive Character Expansion Plan v1.0.md`
+7. `CÓDIGO CÓSMICO_ Character Multiscale Templates v1.0.md`
+8. `CÓDIGO CÓSMICO_ Character Cosmos Topology Registry v1.0.md`
+9. `CÓDIGO CÓSMICO_ Character Population Matrix 800 v1.0.md`
+10. `CÓDIGO CÓSMICO_ Arc Assignment Matrix v1.0.md`
+11. `CÓDIGO CÓSMICO_ Character Wave 02 Principales v1.0.md`
+12. `CÓDIGO CÓSMICO_ Character Wave 02 Secundarios v1.0.md`
 
 ## Reglas de uso
 

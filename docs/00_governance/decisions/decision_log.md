@@ -630,3 +630,63 @@ Proyecto: Código Cósmico – Evolución Profunda
 - Regla resultante: Se incorpora `Narrative Hooks for Game Design v1.0` como puente operativo
 - Impacto esperado: Contenido narrativo mas implementable y balanceable
 - Estado: confirmada
+
+### DEC-0061
+
+- Fecha: 2026-03-04
+- Documento afectado: Character Expansion Framework
+- Pregunta origen: Escalar roster de personajes por topologia cosmologica
+- Opciones elegidas: Distribucion por universos/galaxias/sistemas/planetas + arcos temporales
+- Regla resultante: Objetivo ampliado a 200 principales y 600 secundarios con malla multiescala
+- Impacto esperado: Mayor profundidad sistemica y control de cobertura narrativa
+- Estado: confirmada
+
+### DEC-0062
+
+- Fecha: 2026-03-04
+- Documento afectado: Character templates
+- Pregunta origen: Evitar personajes planos en produccion masiva
+- Opciones elegidas: Plantillas diferenciadas por tier y escala con conflicto obligatorio
+- Regla resultante: Ningun personaje pasa QA sin contradiccion + decision dificil + consecuencia rastreable
+- Impacto esperado: Consistencia dramatica en volumen alto
+- Estado: confirmada
+
+### DEC-0063
+
+- Fecha: 2026-03-04
+- Documento afectado: Character population registry
+- Pregunta origen: Necesidad de poblacion inicial operativa
+- Opciones elegidas: Matriz 800 + wave inicial poblada + asignacion de arcos
+- Regla resultante: Se publican registries de topologia y poblacion para ejecucion recursiva
+- Impacto esperado: Arranque inmediato del pipeline de personajes
+- Estado: confirmada
+
+### DEC-0064
+
+- Fecha: 2026-03-04
+- Documento afectado: Character Wave 02
+- Pregunta origen: Inicio operativo de poblacion profunda de personajes
+- Opciones elegidas: Publicar wave con 40 principales y 120 secundarios
+- Regla resultante: Cada secundario debe incluir conflicto, decision dificil y consecuencia
+- Impacto esperado: Evidencia de escalado con calidad dramatica minima
+- Estado: confirmada
+
+### DEC-0065
+
+- Fecha: 2026-03-04
+- Documento afectado: Character framework
+- Pregunta origen: Organizacion multiescala por universo/galaxia/sistema/planeta/arco
+- Opciones elegidas: Plantillas y matrices de asignacion recursiva
+- Regla resultante: Personajes se distribuyen por topologia cosmologica y arcos temporales canonicos
+- Impacto esperado: Cobertura amplia sin perdida de coherencia
+- Estado: confirmada
+
+### DEC-0066
+
+- Fecha: 2026-03-04
+- Documento afectado: Expansion README
+- Pregunta origen: Necesidad de navegacion clara del framework de personajes
+- Opciones elegidas: Incluir docs de plan, templates, registries y waves
+- Regla resultante: Indice expansion ampliado y listo para ejecucion por lotes
+- Impacto esperado: Menor friccion operativa para equipo narrativo
+- Estado: confirmada
