@@ -5,6 +5,29 @@
 
 ---
 
+## v2.7 — Narrative Expansion Massive Commit (2026-03-04)
+
+### Added
+
+- `docs/30_experience/narrative/expansion/README.md`
+- `docs/30_experience/narrative/expansion/CÓDIGO CÓSMICO_ Narrative Expansion Operating Model v1.0.md`
+- `docs/30_experience/narrative/expansion/CÓDIGO CÓSMICO_ Event Seed Library v1.0.md`
+- `docs/30_experience/narrative/expansion/CÓDIGO CÓSMICO_ Chain Seed Library v1.0.md`
+- `docs/30_experience/narrative/expansion/CÓDIGO CÓSMICO_ Subfaction Seed Atlas v1.0.md`
+- `docs/30_experience/narrative/expansion/CÓDIGO CÓSMICO_ Narrative Hooks for Game Design v1.0.md`
+
+### Changed
+
+- `docs/30_experience/narrative/README.md` (enlace al directorio expansion)
+- `docs/00_governance/decisions/decision_log.md` (DEC-0058..DEC-0060)
+
+### Impact
+
+- Se activa la fase de desarrollo narrativo masivo con un paquete base listo para ejecucion por lotes.
+- Queda disponible una base de seeds de alto volumen conectada al canon y a game design.
+
+---
+
 ## v2.6 — Narrative QA Hardening (2026-03-04)
 
 ### Added

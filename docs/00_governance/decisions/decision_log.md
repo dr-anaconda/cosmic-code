@@ -600,3 +600,33 @@ Proyecto: Código Cósmico – Evolución Profunda
 - Regla resultante: Se crea `CÓDIGO CÓSMICO_ KPI Narrativos Operativos.md`
 - Impacto esperado: Balance narrativo data-informed por release
 - Estado: confirmada
+
+### DEC-0058
+
+- Fecha: 2026-03-04
+- Documento afectado: Narrative Expansion Pack
+- Pregunta origen: Escalar narrativa en volumen sin romper canon
+- Opciones elegidas: Expansion masiva por seeds estructurados y lotes trazables
+- Regla resultante: Se crea `docs/30_experience/narrative/expansion/` como capa derivada del canon
+- Impacto esperado: Aumento de throughput narrativo con control de coherencia
+- Estado: confirmada
+
+### DEC-0059
+
+- Fecha: 2026-03-04
+- Documento afectado: Event/Chain/Subfaction libraries
+- Pregunta origen: Forma eficiente de desarrollo inicial de expansion
+- Opciones elegidas: Bibliotecas de seeds listas para runtime y refinement
+- Regla resultante: Publicar 210 event seeds, 80 chain seeds y 120 subfaction seeds en un lote unico
+- Impacto esperado: Base operativa inmediata para desarrollo narrativo x2
+- Estado: confirmada
+
+### DEC-0060
+
+- Fecha: 2026-03-04
+- Documento afectado: Integracion narrativa con game design
+- Pregunta origen: Evitar disonancia al escalar contenido
+- Opciones elegidas: Biblioteca de hooks sistemicos para arbol/grafo, IA, crafting, dificultad y finales
+- Regla resultante: Se incorpora `Narrative Hooks for Game Design v1.0` como puente operativo
+- Impacto esperado: Contenido narrativo mas implementable y balanceable
+- Estado: confirmada

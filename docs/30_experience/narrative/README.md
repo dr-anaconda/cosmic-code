@@ -17,6 +17,10 @@ Documentos narrativos orientados a personas no tecnicas, onboarding de equipo y 
 
 - [canon/README.md](./canon/README.md)
 
+## Expansion narrativa masiva
+
+- [expansion/README.md](./expansion/README.md)
+
 ## Referencias operativas
 
 - Producto: [../../10_product/README.md](../../10_product/README.md)
