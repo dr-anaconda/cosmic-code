@@ -430,3 +430,143 @@ Proyecto: Código Cósmico – Evolución Profunda
 - Regla resultante: Ninguna issue P0 entra en ready sin aceptacion verificable y responsable asignado
 - Impacto esperado: Mejor calidad de planificacion y review tecnica mas rapida
 - Estado: confirmada
+
+### DEC-0041
+
+- Fecha: 2026-03-04
+- Documento afectado: 01 Documento de Vision del Mundo
+- Pregunta origen: Definicion de rol del jugador
+- Opciones elegidas: Conciencia emergente observadora-interventora con agencia graduable
+- Regla resultante: Modo contemplativo y modo de alto control son validos dentro del canon
+- Impacto esperado: Rejugabilidad y coherencia con fantasia sistemica
+- Estado: confirmada
+
+### DEC-0042
+
+- Fecha: 2026-03-04
+- Documento afectado: 01 Documento de Vision del Mundo
+- Pregunta origen: Tono y conflicto central
+- Opciones elegidas: Sci-fi biotecnologica filosofica con matiz biopunk y contemplativo; conflicto no binario
+- Regla resultante: Ninguna faccion tiene verdad moral absoluta sobre intervencion
+- Impacto esperado: Mayor profundidad etica y narrativa
+- Estado: confirmada
+
+### DEC-0043
+
+- Fecha: 2026-03-04
+- Documento afectado: 02 Worldbuilding Bible
+- Pregunta origen: Modelo de panspermia y arquitectura biologica
+- Opciones elegidas: Mixto jerarquico; base ADN/ARN expandido con toques exoticos/sinteticos
+- Regla resultante: Natural dominante, dirigida puntual, sintetica excepcional
+- Impacto esperado: Marco plausible y flexible para contenido futuro
+- Estado: confirmada
+
+### DEC-0044
+
+- Fecha: 2026-03-04
+- Documento afectado: 03 Cronologia Historica
+- Pregunta origen: Estructura temporal del lore
+- Opciones elegidas: Cronologia fractal con convergencia parcial tardia
+- Regla resultante: Calendarios locales primero; correlacion temporal avanzada tras hitos
+- Impacto esperado: Misterio inicial + claridad estrategica en late game
+- Estado: confirmada
+
+### DEC-0045
+
+- Fecha: 2026-03-04
+- Documento afectado: 04 Documento de Facciones
+- Pregunta origen: Estado politico inicial y catalizador de ruptura
+- Opciones elegidas: Paz madura inicial; ruptura por subfaccion hibrida manipulada
+- Regla resultante: Protocolo PAH-1 con precedencia por primer evento en partida
+- Impacto esperado: Escalada dramatica con alta rejugabilidad
+- Estado: confirmada
+
+### DEC-0046
+
+- Fecha: 2026-03-04
+- Documento afectado: 05 Biblia de Personajes
+- Pregunta origen: Modelo de cast y tipo de arcos
+- Opciones elegidas: Ensamble coral sin avatar fijo; transformacion gradual
+- Regla resultante: Conflicto interno triple y desenlaces agridulces
+- Impacto esperado: Personajes consistentes con conflicto sistemico
+- Estado: confirmada
+
+### DEC-0047
+
+- Fecha: 2026-03-04
+- Documento afectado: 06 Ambientacion por Region
+- Pregunta origen: Escala regional y persistencia entre runs
+- Opciones elegidas: Dinamica/procedural/mutable; persistencia de genetica y ecos narrativos
+- Regla resultante: Sacrificio alto de estado material con compensacion meta por logros/tiempo
+- Impacto esperado: Balance entre perdida significativa y progreso continuo
+- Estado: confirmada
+
+### DEC-0048
+
+- Fecha: 2026-03-04
+- Documento afectado: 07 Sistemas Narrativos
+- Pregunta origen: Adaptatividad y eventos globales
+- Opciones elegidas: Adaptatividad alta; causalidad por capas; umbrales visibles con toque incierto
+- Regla resultante: Finales hibridos por estabilidad + faccion + estilo de juego
+- Impacto esperado: Narrativa emergente legible y variable
+- Estado: confirmada
+
+### DEC-0049
+
+- Fecha: 2026-03-04
+- Documento afectado: 08 Glosario
+- Pregunta origen: Politica terminologica
+- Opciones elegidas: Operativo+narrativo; dominios fijos con indice; canon estricto
+- Regla resultante: Un termino principal por concepto y terminos sensibles con marco neutral
+- Impacto esperado: Consistencia cross-doc y mejor QA editorial
+- Estado: confirmada
+
+### DEC-0050
+
+- Fecha: 2026-03-04
+- Documento afectado: 09 Reglas del Mundo
+- Pregunta origen: Limites de modificacion, herencia e irreversibilidad
+- Opciones elegidas: Limites duros, herencia mixta, irreversibilidad alta telegráfica escalada por fase
+- Regla resultante: Coste creciente y consecuencias visibles con alertas previas
+- Impacto esperado: Tension estrategica justa sin arbitrariedad
+- Estado: confirmada
+
+### DEC-0051
+
+- Fecha: 2026-03-04
+- Documento afectado: 10 Moodboard Narrativo
+- Pregunta origen: Direccion visual canonica
+- Opciones elegidas: Biologia fractal sublime, sutura viva, estratos de tiempo
+- Regla resultante: Orden matematico como marco y caos evolutivo como contenido oscilante
+- Impacto esperado: Identidad visual distintiva y funcional al lore
+- Estado: confirmada
+
+### DEC-0052
+
+- Fecha: 2026-03-04
+- Documento afectado: 11 Misterios y Secretos
+- Pregunta origen: Nivel de revelacion en base game
+- Opciones elegidas: Verdad fragmentada, intencionalidad parcial de red, blueprint prohibido incompleto
+- Regla resultante: Intriga sostenida con evidencia trazable y cierre parcial
+- Impacto esperado: Long-term mystery sin ruptura de coherencia
+- Estado: confirmada
+
+### DEC-0053
+
+- Fecha: 2026-03-04
+- Documento afectado: 12 Integracion con Game Design
+- Pregunta origen: Puente lore-gameplay
+- Opciones elegidas: Arbol->grafo por fase, IA de asistencia suave, crafting por capas, eventos media frecuencia alto impacto
+- Regla resultante: Integracion ludonarrativa modular y progresiva
+- Impacto esperado: Menor disonancia y mejor curva de profundidad
+- Estado: confirmada
+
+### DEC-0054
+
+- Fecha: 2026-03-04
+- Documento afectado: 13 Orquestador de Coherencia y Balance Transversal
+- Pregunta origen: Necesidad de gobernanza transversal del corpus narrativo
+- Opciones elegidas: Documento regulador + plantilla de revision por lote
+- Regla resultante: Scorecard transversal obligatorio antes de cierre de lote narrativo
+- Impacto esperado: Consistencia sostenida y trazabilidad de cambios
+- Estado: confirmada
