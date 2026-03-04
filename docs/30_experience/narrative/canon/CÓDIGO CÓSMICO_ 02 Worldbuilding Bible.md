@@ -85,6 +85,12 @@ Mitigacion: reglas de activacion y trazabilidad historica.
 Riesgo: edicion genetica trivial.  
 Mitigacion: coste, latencia y deuda obligatorios.
 
+## Trazabilidad
+
+- Decisiones: `docs/00_governance/decisions/decision_log.md` (DEC-0043).
+- Lore gaps: `docs/60_open-questions/lore-gaps-log.md` (LG-003, LG-004).
+- Release documental: `docs/00_governance/release-notes/CÓDIGO CÓSMICO_ Release Notes.md`.
+
 ## 9. Declaracion final
 
 La biotecnologia en Codigo Cosmico no reemplaza la evolucion; negocia con ella bajo costes reales, en un universo donde cada aceleracion deja una factura ecosistemica.

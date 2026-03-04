@@ -74,6 +74,12 @@ Alertas obligatorias previas:
 - Sin recuperacion total instantanea tras dano irreversible.
 - Sin excepciones sin causa documentada.
 
+## Trazabilidad
+
+- Decisiones: `docs/00_governance/decisions/decision_log.md` (DEC-0050).
+- Lore gaps: `docs/60_open-questions/lore-gaps-log.md` (LG-003).
+- Release documental: `docs/00_governance/release-notes/CÓDIGO CÓSMICO_ Release Notes.md`.
+
 ## 9. Declaracion final
 
 Las Reglas del Mundo de Codigo Cosmico convierten la libertad del jugador en responsabilidad legible: experimentar es valido, ignorar consecuencias no.

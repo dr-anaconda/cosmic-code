@@ -74,6 +74,12 @@ Mitigacion: modularidad de eventos + compresion por estados.
 Riesgo: opacidad causal.  
 Mitigacion: telemetria y recap explicativa por evento critico.
 
+## Trazabilidad
+
+- Decisiones: `docs/00_governance/decisions/decision_log.md` (DEC-0048).
+- Lore gaps: `docs/60_open-questions/lore-gaps-log.md` (LG-002, LG-003).
+- Release documental: `docs/00_governance/release-notes/CÓDIGO CÓSMICO_ Release Notes.md`.
+
 ## 10. Declaracion final
 
 En Codigo Cosmico, la narrativa no acompana al sistema: es el sistema interpretado con lenguaje humano y consecuencias jugables.

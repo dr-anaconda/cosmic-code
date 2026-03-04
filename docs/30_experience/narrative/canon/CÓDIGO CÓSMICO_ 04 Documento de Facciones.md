@@ -81,6 +81,12 @@ Mitigacion: lectura por capas (troncales -> subfacciones).
 Riesgo: paz inicial sin tension dramatica.  
 Mitigacion: presagios y gatillos PAH-1.
 
+## Trazabilidad
+
+- Decisiones: `docs/00_governance/decisions/decision_log.md` (DEC-0045).
+- Lore gaps: `docs/60_open-questions/lore-gaps-log.md` (LG-004).
+- Release documental: `docs/00_governance/release-notes/CÓDIGO CÓSMICO_ Release Notes.md`.
+
 ## 9. Declaracion final
 
 Las facciones de Codigo Cosmico no representan bien y mal, sino estrategias incompletas ante la misma pregunta: como proteger la continuidad de la vida sin vaciar su capacidad de aprender.

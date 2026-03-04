@@ -99,6 +99,12 @@ Terminos regulados:
 
 Autonomia Evolutiva, Colapso, Deuda Evolutiva, Eco de Run, Integridad de Linaje, Mutacion Emergente, Panspermia Dirigida, Panspermia Natural, Panspermia Sintetica, Red Hibrida, Recomposicion, Sobreoptimizacion, Trama de Siembra, Umbral de Sintesis.
 
+## Trazabilidad
+
+- Decisiones: `docs/00_governance/decisions/decision_log.md` (DEC-0049).
+- Lore gaps: `docs/60_open-questions/lore-gaps-log.md` (referencias terminologicas vinculadas a LG-001..LG-004).
+- Release documental: `docs/00_governance/release-notes/CÓDIGO CÓSMICO_ Release Notes.md`.
+
 ## 10. Declaracion final
 
 El glosario canonico garantiza coherencia editorial: si el universo tiene reglas, su lenguaje tambien.

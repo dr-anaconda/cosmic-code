@@ -64,6 +64,12 @@ Mitigacion: escalado de pistas por fase.
 Riesgo: sobreexplicacion temprana.  
 Mitigacion: separar mecanismo de autoria.
 
+## Trazabilidad
+
+- Decisiones: `docs/00_governance/decisions/decision_log.md` (DEC-0052).
+- Lore gaps: `docs/60_open-questions/lore-gaps-log.md` (LG-001, LG-002, LG-003, LG-004).
+- Release documental: `docs/00_governance/release-notes/CÓDIGO CÓSMICO_ Release Notes.md`.
+
 ## 9. Declaracion final
 
 En Codigo Cosmico, el misterio no es adorno conspirativo: es la forma natural de conocer un universo cuya informacion siempre llega incompleta.
