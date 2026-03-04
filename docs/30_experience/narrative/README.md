@@ -13,6 +13,10 @@ Documentos narrativos orientados a personas no tecnicas, onboarding de equipo y 
 7. [CÓDIGO CÓSMICO_ Glosario Humano.md](./CÓDIGO CÓSMICO_ Glosario Humano.md)
 8. [CÓDIGO CÓSMICO_ Diario de Temporada (plantilla).md](./CÓDIGO CÓSMICO_ Diario de Temporada %28plantilla%29.md)
 
+## Canon narrativo profundo
+
+- [canon/README.md](./canon/README.md)
+
 ## Referencias operativas
 
 - Producto: [../../10_product/README.md](../../10_product/README.md)

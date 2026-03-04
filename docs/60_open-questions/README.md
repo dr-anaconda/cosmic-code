@@ -26,6 +26,7 @@ Usar `templates/question-template.md` para nuevas entradas.
 ## Documentos en este directorio
 
 - [open-questions-log.md](./open-questions-log.md)
+- [lore-gaps-log.md](./lore-gaps-log.md)
 - [templates/question-template.md](./templates/question-template.md)
 
 ## Reglas y criterios aplicables

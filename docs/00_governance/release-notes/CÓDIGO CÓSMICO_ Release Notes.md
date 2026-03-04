@@ -5,6 +5,40 @@
 
 ---
 
+## v2.5 — Narrative Canon Deep Pack (2026-03-04)
+
+### Added
+
+- `docs/30_experience/narrative/canon/README.md`
+- `docs/30_experience/narrative/canon/CÓDIGO CÓSMICO_ 01 Documento de Visión del Mundo.md`
+- `docs/30_experience/narrative/canon/CÓDIGO CÓSMICO_ 02 Worldbuilding Bible.md`
+- `docs/30_experience/narrative/canon/CÓDIGO CÓSMICO_ 03 Cronología Histórica.md`
+- `docs/30_experience/narrative/canon/CÓDIGO CÓSMICO_ 04 Documento de Facciones.md`
+- `docs/30_experience/narrative/canon/CÓDIGO CÓSMICO_ 05 Biblia de Personajes.md`
+- `docs/30_experience/narrative/canon/CÓDIGO CÓSMICO_ 06 Ambientación por Región.md`
+- `docs/30_experience/narrative/canon/CÓDIGO CÓSMICO_ 07 Sistemas Narrativos.md`
+- `docs/30_experience/narrative/canon/CÓDIGO CÓSMICO_ 08 Glosario.md`
+- `docs/30_experience/narrative/canon/CÓDIGO CÓSMICO_ 09 Reglas del Mundo.md`
+- `docs/30_experience/narrative/canon/CÓDIGO CÓSMICO_ 10 Moodboard Narrativo.md`
+- `docs/30_experience/narrative/canon/CÓDIGO CÓSMICO_ 11 Misterios y Secretos.md`
+- `docs/30_experience/narrative/canon/CÓDIGO CÓSMICO_ 12 Integración con Game Design.md`
+- `docs/30_experience/narrative/canon/CÓDIGO CÓSMICO_ 13 Orquestador de Coherencia y Balance Transversal.md`
+- `docs/60_open-questions/lore-gaps-log.md`
+- `docs/00_governance/canon/templates/REVIEW_TRANSVERSAL_LOTE_TEMPLATE.md`
+
+### Changed
+
+- `docs/30_experience/narrative/README.md` (seccion de canon narrativo profundo)
+- `docs/60_open-questions/README.md` (enlace a lore-gaps-log)
+- `docs/00_governance/decisions/decision_log.md` (DEC-0041..DEC-0054)
+
+### Impact
+
+- Se consolida un corpus narrativo canonico completo (13 documentos) con trazabilidad y gobernanza transversal.
+- Quedan formalizados gaps de lore pendientes y plantilla de revision de lote pre-release.
+
+---
+
 ## v2.4 — Imported Legacy Fully Integrated (2026-03-03)
 
 ### Changed
