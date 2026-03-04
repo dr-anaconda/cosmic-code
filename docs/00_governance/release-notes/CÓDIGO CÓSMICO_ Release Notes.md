@@ -5,6 +5,25 @@
 
 ---
 
+## v3.0 — Character Wave 03 Deep Profiles (2026-03-04)
+
+### Added
+
+- `docs/30_experience/narrative/expansion/CÓDIGO CÓSMICO_ Character Wave 03 Principales v1.0.md`
+- `docs/30_experience/narrative/expansion/CÓDIGO CÓSMICO_ Character Wave 03 Secundarios v1.0.md`
+
+### Changed
+
+- `docs/30_experience/narrative/expansion/README.md` (se agregan docs de Wave 03)
+- `docs/00_governance/decisions/decision_log.md` (DEC-0067..DEC-0068)
+
+### Impact
+
+- Se amplía el roster profundo con 160 nuevos perfiles (40 principales, 120 secundarios).
+- Se consolida la regla anti-planitud para secundarios en escalado masivo.
+
+---
+
 ## v2.9 — Character Wave 02 and Recursive Matrices (2026-03-04)
 
 ### Added

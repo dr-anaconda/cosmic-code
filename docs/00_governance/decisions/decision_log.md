@@ -690,3 +690,23 @@ Proyecto: Código Cósmico – Evolución Profunda
 - Regla resultante: Indice expansion ampliado y listo para ejecucion por lotes
 - Impacto esperado: Menor friccion operativa para equipo narrativo
 - Estado: confirmada
+
+### DEC-0067
+
+- Fecha: 2026-03-04
+- Documento afectado: Character Wave 03
+- Pregunta origen: Continuidad del escalado de roster profundo
+- Opciones elegidas: Publicar wave de 40 principales y 120 secundarios
+- Regla resultante: Se extiende el roster a `PX2-081..PX2-120` y `SX2-361..SX2-480`
+- Impacto esperado: Cobertura progresiva del objetivo 800 con calidad estable
+- Estado: confirmada
+
+### DEC-0068
+
+- Fecha: 2026-03-04
+- Documento afectado: Expansion character pipeline
+- Pregunta origen: Mantener profundidad en secundarios durante escalado
+- Opciones elegidas: Ficha corta obligatoria con conflicto + decision + consecuencia
+- Regla resultante: Ningun secundario de waves 03+ se admite sin triada dramatica minima
+- Impacto esperado: Evitar personajes planos en produccion masiva
+- Estado: confirmada
