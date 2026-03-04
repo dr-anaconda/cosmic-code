@@ -710,3 +710,23 @@ Proyecto: Código Cósmico – Evolución Profunda
 - Regla resultante: Ningun secundario de waves 03+ se admite sin triada dramatica minima
 - Impacto esperado: Evitar personajes planos en produccion masiva
 - Estado: confirmada
+
+### DEC-0069
+
+- Fecha: 2026-03-04
+- Documento afectado: Character Wave 04
+- Pregunta origen: Cierre del objetivo de roster 800
+- Opciones elegidas: Publicar Wave 04 con 80 principales y 120 secundarios
+- Regla resultante: Se completa `PX2-121..PX2-200` y `SX2-481..SX2-600`
+- Impacto esperado: Objetivo total 200 principales y 600 secundarios cumplido
+- Estado: confirmada
+
+### DEC-0070
+
+- Fecha: 2026-03-04
+- Documento afectado: Character Population Matrix
+- Pregunta origen: Evidenciar cierre operativo del programa de waves
+- Opciones elegidas: Agregar tabla de avance consolidada por wave
+- Regla resultante: Matriz 800 incluye estado de completion por lote
+- Impacto esperado: Control ejecutivo rapido de progreso narrativo
+- Estado: confirmada

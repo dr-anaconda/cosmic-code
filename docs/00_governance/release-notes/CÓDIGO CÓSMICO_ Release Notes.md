@@ -5,6 +5,26 @@
 
 ---
 
+## v3.1 — Character Wave 04 and Roster Completion (2026-03-04)
+
+### Added
+
+- `docs/30_experience/narrative/expansion/CÓDIGO CÓSMICO_ Character Wave 04 Principales v1.0.md`
+- `docs/30_experience/narrative/expansion/CÓDIGO CÓSMICO_ Character Wave 04 Secundarios v1.0.md`
+
+### Changed
+
+- `docs/30_experience/narrative/expansion/CÓDIGO CÓSMICO_ Character Population Matrix 800 v1.0.md` (estado consolidado de waves)
+- `docs/30_experience/narrative/expansion/README.md` (indice con Wave 04)
+- `docs/00_governance/decisions/decision_log.md` (DEC-0069..DEC-0070)
+
+### Impact
+
+- Se completa el objetivo de roster: 200 personajes principales y 600 secundarios.
+- Queda formalizado el cierre operativo por waves dentro de la matriz de poblacion.
+
+---
+
 ## v3.0 — Character Wave 03 Deep Profiles (2026-03-04)
 
 ### Added
