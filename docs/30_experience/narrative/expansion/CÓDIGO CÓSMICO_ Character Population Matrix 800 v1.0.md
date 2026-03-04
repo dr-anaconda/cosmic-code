@@ -135,6 +135,16 @@ Nota:
 - Cada 40 principales o 120 secundarios se ejecuta QA transversal.
 - Si surge A0/A1, se pausa escalado y se corrige antes de siguiente wave.
 
+## 10. Estado de avance de waves
+
+| Wave | Principales | Secundarios | Estado |
+|---|---:|---:|---|
+| Wave 01 | 40 | 240 (bloques) | Base operativa |
+| Wave 02 | 40 | 120 | Publicada |
+| Wave 03 | 40 | 120 | Publicada |
+| Wave 04 | 80 | 120 | Publicada |
+| **Total operativo** | **200** | **600** | **Objetivo cumplido** |
+
 ## 10. Trazabilidad
 
 - Topologia: `CÓDIGO CÓSMICO_ Character Cosmos Topology Registry v1.0.md`.

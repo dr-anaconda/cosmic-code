@@ -32,6 +32,8 @@ Expandir en volumen (x2) la base de contenido utilizable en runtime narrativo:
 12. `CÓDIGO CÓSMICO_ Character Wave 02 Secundarios v1.0.md`
 13. `CÓDIGO CÓSMICO_ Character Wave 03 Principales v1.0.md`
 14. `CÓDIGO CÓSMICO_ Character Wave 03 Secundarios v1.0.md`
+15. `CÓDIGO CÓSMICO_ Character Wave 04 Principales v1.0.md`
+16. `CÓDIGO CÓSMICO_ Character Wave 04 Secundarios v1.0.md`
 
 ## Reglas de uso
 
