@@ -30,6 +30,8 @@ Expandir en volumen (x2) la base de contenido utilizable en runtime narrativo:
 10. `CÓDIGO CÓSMICO_ Arc Assignment Matrix v1.0.md`
 11. `CÓDIGO CÓSMICO_ Character Wave 02 Principales v1.0.md`
 12. `CÓDIGO CÓSMICO_ Character Wave 02 Secundarios v1.0.md`
+13. `CÓDIGO CÓSMICO_ Character Wave 03 Principales v1.0.md`
+14. `CÓDIGO CÓSMICO_ Character Wave 03 Secundarios v1.0.md`
 
 ## Reglas de uso
 
