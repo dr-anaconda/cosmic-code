@@ -109,6 +109,12 @@ Mitigacion: costes y limites claros en Reglas del Mundo.
 - Alimenta: Worldbuilding, Facciones, Sistemas Narrativos, Misterios, Integracion GD.
 - Se alinea con: `docs/10_product/CÓDIGO CÓSMICO_ GDD-lite.md`.
 
+## Trazabilidad
+
+- Decisiones: `docs/00_governance/decisions/decision_log.md` (DEC-0041, DEC-0042).
+- Lore gaps: `docs/60_open-questions/lore-gaps-log.md` (LG-001, LG-003).
+- Release documental: `docs/00_governance/release-notes/CÓDIGO CÓSMICO_ Release Notes.md`.
+
 ## 12. Declaracion final
 
 Codigo Cosmico no trata de dominar la vida, sino de comprender su logica en un universo donde toda intervencion transforma tanto al ecosistema como al observador.

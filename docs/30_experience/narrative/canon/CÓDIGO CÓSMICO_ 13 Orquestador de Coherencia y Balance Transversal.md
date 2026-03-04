@@ -82,6 +82,13 @@ Requisitos minimos:
 - gates en PASS,
 - score transversal en umbral.
 
+## Trazabilidad
+
+- Decisiones: `docs/00_governance/decisions/decision_log.md` (DEC-0054).
+- Lore gaps: `docs/60_open-questions/lore-gaps-log.md`.
+- Plantilla de revision por lote: `docs/00_governance/canon/templates/REVIEW_TRANSVERSAL_LOTE_TEMPLATE.md`.
+- Release documental: `docs/00_governance/release-notes/CÓDIGO CÓSMICO_ Release Notes.md`.
+
 ## 9. Declaracion final
 
 Este orquestador protege la integridad del corpus: impide deriva, ordena prioridades y mantiene un universo coherente bajo expansion continua.

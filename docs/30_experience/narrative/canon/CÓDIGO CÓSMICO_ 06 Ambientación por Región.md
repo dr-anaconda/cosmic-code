@@ -77,6 +77,12 @@ Mitigacion: firmas regionales por matriz bioclimatica.
 Riesgo: reinicio demasiado punitivo.  
 Mitigacion: feedback claro de retorno meta.
 
+## Trazabilidad
+
+- Decisiones: `docs/00_governance/decisions/decision_log.md` (DEC-0047).
+- Lore gaps: `docs/60_open-questions/lore-gaps-log.md` (LG-004).
+- Release documental: `docs/00_governance/release-notes/CÓDIGO CÓSMICO_ Release Notes.md`.
+
 ## 9. Declaracion final
 
 La ambientacion regional de Codigo Cosmico es un organismo en mutacion: nunca se repite igual, pero nunca empieza desde cero absoluto.

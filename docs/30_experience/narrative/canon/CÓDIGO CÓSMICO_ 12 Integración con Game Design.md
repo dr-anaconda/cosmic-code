@@ -75,6 +75,12 @@ Mitigacion: capas de feedback claras.
 Riesgo: complejidad de crafting temprana.  
 Mitigacion: presets y desbloqueo progresivo.
 
+## Trazabilidad
+
+- Decisiones: `docs/00_governance/decisions/decision_log.md` (DEC-0053).
+- Lore gaps: `docs/60_open-questions/lore-gaps-log.md` (LG-002, LG-003).
+- Release documental: `docs/00_governance/release-notes/CÓDIGO CÓSMICO_ Release Notes.md`.
+
 ## 9. Declaracion final
 
 En Codigo Cosmico, la narrativa debe sentirse en las manos del jugador: cada sistema cuenta una historia y cada historia altera un sistema.

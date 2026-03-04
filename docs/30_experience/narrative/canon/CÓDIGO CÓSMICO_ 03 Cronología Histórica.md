@@ -88,6 +88,12 @@ Mitigacion: etiquetas consistentes + correlacion desbloqueable.
 Riesgo: exceso de misterio sin anclas.  
 Mitigacion: hitos transversales verificables.
 
+## Trazabilidad
+
+- Decisiones: `docs/00_governance/decisions/decision_log.md` (DEC-0044).
+- Lore gaps: `docs/60_open-questions/lore-gaps-log.md` (LG-001, LG-003).
+- Release documental: `docs/00_governance/release-notes/CÓDIGO CÓSMICO_ Release Notes.md`.
+
 ## 10. Declaracion final
 
 La historia de Codigo Cosmico es policentrica: no avanza en linea recta, sino en constelaciones de tiempo que el jugador aprende a unir sin cancelar su diversidad.

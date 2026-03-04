@@ -5,6 +5,38 @@
 
 ---
 
+## v2.6 — Narrative QA Hardening (2026-03-04)
+
+### Added
+
+- `docs/00_governance/qa/CÓDIGO CÓSMICO_ Narrative Canon Scorecard v1.1.md`
+- `docs/30_experience/narrative/canon/CÓDIGO CÓSMICO_ KPI Narrativos Operativos.md`
+
+### Changed
+
+- `docs/30_experience/narrative/canon/CÓDIGO CÓSMICO_ 01 Documento de Visión del Mundo.md`
+- `docs/30_experience/narrative/canon/CÓDIGO CÓSMICO_ 02 Worldbuilding Bible.md`
+- `docs/30_experience/narrative/canon/CÓDIGO CÓSMICO_ 03 Cronología Histórica.md`
+- `docs/30_experience/narrative/canon/CÓDIGO CÓSMICO_ 04 Documento de Facciones.md`
+- `docs/30_experience/narrative/canon/CÓDIGO CÓSMICO_ 05 Biblia de Personajes.md`
+- `docs/30_experience/narrative/canon/CÓDIGO CÓSMICO_ 06 Ambientación por Región.md`
+- `docs/30_experience/narrative/canon/CÓDIGO CÓSMICO_ 07 Sistemas Narrativos.md`
+- `docs/30_experience/narrative/canon/CÓDIGO CÓSMICO_ 08 Glosario.md`
+- `docs/30_experience/narrative/canon/CÓDIGO CÓSMICO_ 09 Reglas del Mundo.md`
+- `docs/30_experience/narrative/canon/CÓDIGO CÓSMICO_ 10 Moodboard Narrativo.md`
+- `docs/30_experience/narrative/canon/CÓDIGO CÓSMICO_ 11 Misterios y Secretos.md`
+- `docs/30_experience/narrative/canon/CÓDIGO CÓSMICO_ 12 Integración con Game Design.md`
+- `docs/30_experience/narrative/canon/CÓDIGO CÓSMICO_ 13 Orquestador de Coherencia y Balance Transversal.md`
+- `docs/30_experience/narrative/canon/README.md`
+- `docs/00_governance/decisions/decision_log.md` (DEC-0055..DEC-0057)
+
+### Impact
+
+- Se blinda la trazabilidad por documento canonico con enlaces operativos obligatorios.
+- Se incorpora scorecard QA persistente y set de KPIs narrativos para balance continuo.
+
+---
+
 ## v2.5 — Narrative Canon Deep Pack (2026-03-04)
 
 ### Added

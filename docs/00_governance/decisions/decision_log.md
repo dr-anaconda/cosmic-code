@@ -570,3 +570,33 @@ Proyecto: Código Cósmico – Evolución Profunda
 - Regla resultante: Scorecard transversal obligatorio antes de cierre de lote narrativo
 - Impacto esperado: Consistencia sostenida y trazabilidad de cambios
 - Estado: confirmada
+
+### DEC-0055
+
+- Fecha: 2026-03-04
+- Documento afectado: Canon narrativo (docs 01..13)
+- Pregunta origen: Mejora de trazabilidad por documento
+- Opciones elegidas: Agregar seccion "Trazabilidad" en cada documento canonico
+- Regla resultante: Todo doc canonico referencia decision log, lore gaps y release notes
+- Impacto esperado: Auditoria mas rapida y menor deriva editorial
+- Estado: confirmada
+
+### DEC-0056
+
+- Fecha: 2026-03-04
+- Documento afectado: QA transversal
+- Pregunta origen: Necesidad de evidencia formal de PASS del lote narrativo
+- Opciones elegidas: Publicar scorecard QA dedicado
+- Regla resultante: Se crea `CÓDIGO CÓSMICO_ Narrative Canon Scorecard v1.1.md`
+- Impacto esperado: Cierre de gate con evidencia documental persistente
+- Estado: confirmada
+
+### DEC-0057
+
+- Fecha: 2026-03-04
+- Documento afectado: KPI narrativos
+- Pregunta origen: Medicion continua de calidad narrativa
+- Opciones elegidas: Definir set de KPIs operativos con umbrales
+- Regla resultante: Se crea `CÓDIGO CÓSMICO_ KPI Narrativos Operativos.md`
+- Impacto esperado: Balance narrativo data-informed por release
+- Estado: confirmada

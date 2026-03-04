@@ -18,6 +18,10 @@ Coleccion canonica de documentos de worldbuilding, lore, reglas narrativas e int
 12. `CÓDIGO CÓSMICO_ 12 Integración con Game Design.md`
 13. `CÓDIGO CÓSMICO_ 13 Orquestador de Coherencia y Balance Transversal.md`
 
+## Soportes operativos
+
+- `CÓDIGO CÓSMICO_ KPI Narrativos Operativos.md`
+
 ## Governanza y trazabilidad
 
 - Decision log: `docs/00_governance/decisions/decision_log.md`

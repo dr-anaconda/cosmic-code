@@ -72,6 +72,12 @@ Mitigacion: anclar cada arco a decisiones concretas de sistema.
 Riesgo: simetria dramatica plana.  
 Mitigacion: costes de error diferenciados por faccion y fase.
 
+## Trazabilidad
+
+- Decisiones: `docs/00_governance/decisions/decision_log.md` (DEC-0046).
+- Lore gaps: `docs/60_open-questions/lore-gaps-log.md` (LG-002).
+- Release documental: `docs/00_governance/release-notes/CÓDIGO CÓSMICO_ Release Notes.md`.
+
 ## 9. Declaracion final
 
 La Biblia de Personajes traduce el conflicto cosmico a escala vivible: cada figura es una tesis parcial sobre que significa evolucionar sin perderse del todo.
